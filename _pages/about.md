@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third-year PhD student at Tsinghua University, co-advised by Prof. Yi Zhong at School of Life Sciences and Prof. Jun Zhu at Department of Computer Science and Technology. My research interests include bio-inspired learning and continual/incremental/lifelong learning.
+I'm a third-year PhD student at Tsinghua University, co-advised by Prof. Yi Zhong at School of Life Sciences and Prof. Jun Zhu at Department of Computer Science and Technology. Before that, I received the BS degree with major in biological science and minor in computer science from Tsinghua University.
+My research interests include bio-inspired learning and continual / incremental / lifelong learning.
 
 Selected Publication
 ======
