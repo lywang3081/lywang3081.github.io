@@ -18,7 +18,7 @@ Selected Publication
 **2021**
 * **Liyuan Wang**, Mingtian Zhang, Zhongfan Jia, Qian Li, Chenglong Bao, Kaisheng Ma, Jun Zhu, Yi Zhong. AFEC: Active Forgetting of Negative Transfer in Continual Learning. NeurIPS 2021.
   
-* **Liyuan Wang**, Kuo Yang, Chongxuan Li, Lanqing Hong, Zhenguo Li, Jun Zhu. ORDisCo: Effective and Efficient Usage of Incremental Unlabeled Data for Semi-supervised Continual Learning. CVPR 2022.
+* **Liyuan Wang**, Kuo Yang, Chongxuan Li, Lanqing Hong, Zhenguo Li, Jun Zhu. ORDisCo: Effective and Efficient Usage of Incremental Unlabeled Data for Semi-supervised Continual Learning. CVPR 2021.
 
 * **Liyuan Wang**, Bo Lei, Qian Li, Hang Su, Jun Zhu, Yi Zhong. Triple-Memory Networks: A Brain-Inspired Method for Continual Learning. TNNLS, 2021.
     
