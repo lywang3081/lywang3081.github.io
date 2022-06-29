@@ -16,7 +16,7 @@ Selected Publication
  
 * Xingxing Zhang, Zhizhe Liu, Weikai Yang, **Liyuan Wang**, Jun Zhu. The More, The Better? Active Silencing of Non-Positive Transfer for Efficient Multi-Domain Few-Shot Classification. To Appear in proc. of ACM Multimedia (**MM**), 2022.
   
-* **Liyuan Wang**, Xingxing Zhang, Kuo Yang, Longhui Yu, Chongxuan Li, Hong Lanqing, Shifeng Zhang, Zhenguo Li, Yi Zhong, Jun Zhu. Memory Replay with Data Compression for Continual Learning. To Appear in proc. of International Conference on Learning Representations (ICLR), 2022.
+* **Liyuan Wang**, Xingxing Zhang, Kuo Yang, Longhui Yu, Chongxuan Li, Hong Lanqing, Shifeng Zhang, Zhenguo Li, Yi Zhong, Jun Zhu. Memory Replay with Data Compression for Continual Learning. To Appear in proc. of International Conference on Learning Representations (**ICLR**), 2022.
   
 **2021**
 * **Liyuan Wang**, Mingtian Zhang, Zhongfan Jia, Qian Li, Chenglong Bao, Kaisheng Ma, Jun Zhu, Yi Zhong. AFEC: Active Forgetting of Negative Transfer in Continual Learning. To Appear in proc. of Advances in Neural Information Processing Systems (**NeurIPS**), 2021.
