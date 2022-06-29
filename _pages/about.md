@@ -13,6 +13,10 @@ My research interests include bio-inspired learning and continual / incremental 
 Selected Publication
 ======
 **2022**
+ 
+* Xingxing Zhang, Zhizhe Liu, Weikai Yang, **Liyuan Wang**, Jun Zhu. The More, The Better? Active Silencing of Non-Positive Transfer for Efficient Multi-Domain Few-Shot Classification. ACMMM 2022.
+  
+  
 * **Liyuan Wang**, Xingxing Zhang, Kuo Yang, Longhui Yu, Chongxuan Li, Hong Lanqing, Shifeng Zhang, Zhenguo Li, Yi Zhong, Jun Zhu. Memory Replay with Data Compression for Continual Learning. ICLR 2022.
   
 **2021**
