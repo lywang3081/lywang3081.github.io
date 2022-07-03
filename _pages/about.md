@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm a third-year PhD student at Tsinghua University, co-advised by Prof. [Yi Zhong](https://life.tsinghua.edu.cn/info/1035/2478.htm) at School of Life Sciences and Prof. [Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml) at Department of Computer Science and Technology. Before that, I received the BS degree with major in biological science and minor in computer science from Tsinghua University. 
 
-I have an interdisciplinary background in neuroscience and machine learning. The long-term goal of my research is to incorporate the advantages of biological intelligence into artificial intelligence. My current research focus includes continual / incremental / lifelong learning and transfer learning.
+I have an interdisciplinary background in neuroscience and machine learning. My primary research interest lies in the development of bio-inspired machine learning methodologies and generic computational models for neuroscience. The current research focus includes continual / incremental / lifelong learning and transfer learning, through reference to the mechanisms of biological learning and memory.
 
 Selected Publication
 ======
