@@ -13,10 +13,12 @@ My research interests include bio-inspired learning and continual / incremental 
 Selected Publication
 ======
 **2022**
+
+* **Liyuan Wang***, Xingxing Zhang*, Qian Li, Jun Zhu, Yi Zhong. [CoSCL: Cooperation of Small Continual Learners is Stronger than a Big One.]() To Appear in proc. of European Conference on Computer Vision (**ECCV**), 2022.
  
-* Xingxing Zhang, Zhizhe Liu, Weikai Yang, **Liyuan Wang**, Jun Zhu. [The More, The Better? Active Silencing of Non-Positive Transfer for Efficient Multi-Domain Few-Shot Classification.]() In proc. of ACM Multimedia (**MM**), 2022.
+* Xingxing Zhang, Zhizhe Liu, Weikai Yang, **Liyuan Wang**, Jun Zhu. [The More, The Better? Active Silencing of Non-Positive Transfer for Efficient Multi-Domain Few-Shot Classification.]() To Appear in proc. of ACM Multimedia (**MM**), 2022.
   
-* **Liyuan Wang**, Xingxing Zhang, Kuo Yang, Longhui Yu, Chongxuan Li, Lanqing Hong, Shifeng Zhang, Zhenguo Li, Yi Zhong, Jun Zhu. [Memory Replay with Data Compression for Continual Learning.](https://openreview.net/forum?id=a7H7OucbWaU) In proc. of International Conference on Learning Representations (**ICLR**), 2022.
+* **Liyuan Wang***, Xingxing Zhang*, Kuo Yang, Longhui Yu, Chongxuan Li, Lanqing Hong, Shifeng Zhang, Zhenguo Li, Yi Zhong, Jun Zhu. [Memory Replay with Data Compression for Continual Learning.](https://openreview.net/forum?id=a7H7OucbWaU) In proc. of International Conference on Learning Representations (**ICLR**), 2022.
   
 **2021**
 * **Liyuan Wang**, Mingtian Zhang, Zhongfan Jia, Qian Li, Chenglong Bao, Kaisheng Ma, Jun Zhu, Yi Zhong. [AFEC: Active Forgetting of Negative Transfer in Continual Learning.](https://papers.nips.cc/paper/2021/hash/bc6dc48b743dc5d013b1abaebd2faed2-Abstract.html) In proc. of Advances in Neural Information Processing Systems (**NeurIPS**), 2021.
