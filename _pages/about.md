@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm a third-year PhD student at Tsinghua University, co-advised by [Prof. Yi Zhong](https://life.tsinghua.edu.cn/info/1035/2478.htm) at School of Life Sciences and [Prof. Jun Zhu](http://ml.cs.tsinghua.edu.cn/~jun/index.shtml) at Department of Computer Science and Technology. Before that, I received the BS degree with major in biological science and minor in computer science from Tsinghua University. I was a visiting scholar from Jun 2016 to Sep 2016 in Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, advised by Prof. Yingxi Lin. From Sep 2019 to Aug 2022, I was a participant in Tsinghua-Huawei Large Granularity Long Term Corporation Project, working with Dr. Lanqing Hong and Dr. Zhenguo Li.
 
-I have an interdisciplinary background in neuroscience and machine learning. My primary research interest lies in the development of bio-inspired machine learning methodologies and generic computational models for neuroscience. The current focus includes continual / incremental / lifelong learning and transfer learning, through reference to the mechanisms of biological learning and memory.
+I have an interdisciplinary background in neuroscience and machine learning. My primary research interest lies in the development of bio-inspired machine learning methodologies and generic computational models for neuroscience. The current focus includes **continual / incremental / lifelong learning** and **transfer learning**, by exploring "**natural algorithms**" in biological learning and memory.
 
 Selected Publication
 ======
