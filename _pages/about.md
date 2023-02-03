@@ -13,11 +13,14 @@ I have an interdisciplinary background in neuroscience and machine learning. My 
 
 Selected Publication
 ======
+**2023**
+* **Liyuan Wang**, Xingxing Zhang, Hang Su, Jun Zhu. [A Comprehensive Survey of Continual Learning: Theory, Method and Application.](https://arxiv.org/abs/2302.00487) Arxiv, 2023.
+
 **2022**
 
-* **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Qian Li, Jun Zhu, Yi Zhong. [CoSCL: Cooperation of Small Continual Learners is Stronger than a Big One.]() To Appear in proc. of European Conference on Computer Vision (**ECCV**), 2022.
+* **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Qian Li, Jun Zhu, Yi Zhong. [CoSCL: Cooperation of Small Continual Learners is Stronger than a Big One.](https://arxiv.org/abs/2207.06543) In proc. of European Conference on Computer Vision (**ECCV**), 2022.
  
-* Xingxing Zhang, Zhizhe Liu, Weikai Yang, **Liyuan Wang**, Jun Zhu. [The More, The Better? Active Silencing of Non-Positive Transfer for Efficient Multi-Domain Few-Shot Classification.]() To Appear in proc. of ACM Multimedia (**MM**), 2022.
+* Xingxing Zhang, Zhizhe Liu, Weikai Yang, **Liyuan Wang**, Jun Zhu. [The More, The Better? Active Silencing of Non-Positive Transfer for Efficient Multi-Domain Few-Shot Classification.](https://repo.vicayang.cc/The_More_The_Better/The_More_The_Better.pdf) In proc. of ACM Multimedia (**MM**), 2022.
   
 * **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Kuo Yang, Longhui Yu, Chongxuan Li, Lanqing Hong, Shifeng Zhang, Zhenguo Li, Yi Zhong, Jun Zhu. [Memory Replay with Data Compression for Continual Learning.](https://openreview.net/pdf?id=a7H7OucbWaU) In proc. of International Conference on Learning Representations (**ICLR**), 2022.
   
