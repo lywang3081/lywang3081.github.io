@@ -33,7 +33,4 @@ Selected Publication
     
 
 
-
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=iVYM999qEPMjEGg1V0--rraU5V-JE-OU3Tvh1jYc3uI&cl=ffffff&w=a"></script>
    
