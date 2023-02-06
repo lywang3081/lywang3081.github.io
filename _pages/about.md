@@ -34,6 +34,5 @@ Selected Publication
 
 Service
 ======
-Conference Reviewer: NeurIPS, ICLR, CVPR, ICCV, ECCV
-
-Journal Reviewer: TPAMI, TNNLS, Neural Networks
+* Conference Reviewer: NeurIPS, ICLR, CVPR, ICCV, ECCV
+* Journal Reviewer: TPAMI, TNNLS, Neural Networks
