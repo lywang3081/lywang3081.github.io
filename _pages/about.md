@@ -32,5 +32,8 @@ Selected Publication
 * **Liyuan Wang**, Bo Lei, Qian Li, Hang Su, Jun Zhu, Yi Zhong. [Triple-Memory Networks: A Brain-Inspired Method for Continual Learning.](https://ieeexplore.ieee.org/document/9540230) IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2021 Sep 16;33(5):1925-34.
     
 
+Service
+======
+Conference Reviewer: NeurIPS, ICLR, CVPR, ICCV, ECCV
 
-   
+Journal Reviewer: TPAMI, TNNLS, Neural Networks
