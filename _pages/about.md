@@ -15,7 +15,7 @@ Selected Publication
 ======
 **2023**
 
-* Jianjian Zhao, Xuchen Zhang, Bohan Zhao, **Liyuan Wang**, Wantong Hu, Yi Zhong, and Qian Li. [Genetic Dissection of Mutual Interference between Two Consecutively Learned Tasks in Drosophila.](https://www.biorxiv.org/content/10.1101/2022.10.18.512721.abstract) Accepted by **Elife**, 2023. 
+* Jianjian Zhao, Xuchen Zhang, Bohan Zhao, **Liyuan Wang**, Wantong Hu, Yi Zhong, and Qian Li. [Genetic Dissection of Mutual Interference between Two Consecutively Learned Tasks in Drosophila.](https://www.biorxiv.org/content/10.1101/2022.10.18.512721.abstract) Accepted by **eLife**, 2023. 
 
 * **Liyuan Wang**, Xingxing Zhang, Hang Su, Jun Zhu. [A Comprehensive Survey of Continual Learning: Theory, Method and Application.](https://arxiv.org/abs/2302.00487) arXiv preprint arXiv:2302.00487, 2023.
 
