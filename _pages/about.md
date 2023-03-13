@@ -17,6 +17,8 @@ Selected Publication
 
 * Jianjian Zhao, Xuchen Zhang, Bohan Zhao, **Liyuan Wang**, Wantong Hu, Yi Zhong, and Qian Li. [Genetic Dissection of Mutual Interference between Two Consecutively Learned Tasks in Drosophila.](https://www.biorxiv.org/content/10.1101/2022.10.18.512721.abstract) Accepted by **eLife**, 2023. 
 
+* Gengwei Zhang$^{\ast}$, **Liyuan Wang**$^{\ast}$, Guoliang Kang, Ling Chen, Yunchao Wei. [SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model.](https://arxiv.org/abs/2303.05118) arXiv preprint arXiv:2303.05118, 2023.
+
 * **Liyuan Wang**, Xingxing Zhang, Hang Su, Jun Zhu. [A Comprehensive Survey of Continual Learning: Theory, Method and Application.](https://arxiv.org/abs/2302.00487) arXiv preprint arXiv:2302.00487, 2023.
 
 **2022**
