@@ -40,4 +40,4 @@ Selected Publication
 Academic Service
 ======
 * Conference Reviewer: NeurIPS, ICLR, CVPR, ICCV, ECCV, ACM MM, CoLLAs
-* Journal Reviewer: IEEE TPAMI, IEEE TNNLS, Neural Networks
+* Journal Reviewer: IEEE TPAMI, IEEE TNNLS, Artificial Intelligence, Neural Networks
