@@ -19,20 +19,20 @@ Selected Publication
 
 * Gengwei Zhang$^{\ast}$, **Liyuan Wang**$^{\ast}$, Guoliang Kang, Ling Chen, Yunchao Wei. [SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model.](https://arxiv.org/abs/2303.05118) arXiv preprint arXiv:2303.05118, 2023.
 
-* **Liyuan Wang**, Xingxing Zhang, Hang Su, Jun Zhu. [A Comprehensive Survey of Continual Learning: Theory, Method and Application.](https://arxiv.org/abs/2302.00487) arXiv preprint arXiv:2302.00487, 2023.
+* **Liyuan Wang**, Xingxing Zhang, Hang Su, Jun Zhu. [A Comprehensive Survey of Continual Learning: Theory, Method and Application.](https://arxiv.org/abs/2302.00487) In International Conference on Computer Vision (**ICCV**), 2023.
 
 **2022**
 
-* **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Qian Li, Jun Zhu, Yi Zhong. [CoSCL: Cooperation of Small Continual Learners is Stronger than a Big One.](https://arxiv.org/abs/2207.06543) In proc. of European Conference on Computer Vision (**ECCV**), 2022.
+* **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Qian Li, Jun Zhu, Yi Zhong. [CoSCL: Cooperation of Small Continual Learners is Stronger than a Big One.](https://arxiv.org/abs/2207.06543) In European Conference on Computer Vision (**ECCV**), 2022.
  
-* Xingxing Zhang, Zhizhe Liu, Weikai Yang, **Liyuan Wang**, Jun Zhu. [The More, The Better? Active Silencing of Non-Positive Transfer for Efficient Multi-Domain Few-Shot Classification.](https://repo.vicayang.cc/The_More_The_Better/The_More_The_Better.pdf) In proc. of ACM Multimedia (**MM**), 2022.
+* Xingxing Zhang, Zhizhe Liu, Weikai Yang, **Liyuan Wang**, Jun Zhu. [The More, The Better? Active Silencing of Non-Positive Transfer for Efficient Multi-Domain Few-Shot Classification.](https://repo.vicayang.cc/The_More_The_Better/The_More_The_Better.pdf) In ACM Multimedia (**MM**), 2022.
   
-* **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Kuo Yang, Longhui Yu, Chongxuan Li, Lanqing Hong, Shifeng Zhang, Zhenguo Li, Yi Zhong, Jun Zhu. [Memory Replay with Data Compression for Continual Learning.](https://openreview.net/pdf?id=a7H7OucbWaU) In proc. of International Conference on Learning Representations (**ICLR**), 2022.
+* **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Kuo Yang, Longhui Yu, Chongxuan Li, Lanqing Hong, Shifeng Zhang, Zhenguo Li, Yi Zhong, Jun Zhu. [Memory Replay with Data Compression for Continual Learning.](https://openreview.net/pdf?id=a7H7OucbWaU) In International Conference on Learning Representations (**ICLR**), 2022.
   
 **2021**
-* **Liyuan Wang**, Mingtian Zhang, Zhongfan Jia, Qian Li, Chenglong Bao, Kaisheng Ma, Jun Zhu, Yi Zhong. [AFEC: Active Forgetting of Negative Transfer in Continual Learning.](https://papers.nips.cc/paper/2021/hash/bc6dc48b743dc5d013b1abaebd2faed2-Abstract.html) In proc. of Advances in Neural Information Processing Systems (**NeurIPS**), 2021.
+* **Liyuan Wang**, Mingtian Zhang, Zhongfan Jia, Qian Li, Chenglong Bao, Kaisheng Ma, Jun Zhu, Yi Zhong. [AFEC: Active Forgetting of Negative Transfer in Continual Learning.](https://papers.nips.cc/paper/2021/hash/bc6dc48b743dc5d013b1abaebd2faed2-Abstract.html) Advances in Neural Information Processing Systems (**NeurIPS**), 2021.
   
-* **Liyuan Wang**, Kuo Yang, Chongxuan Li, Lanqing Hong, Zhenguo Li, Jun Zhu. [ORDisCo: Effective and Efficient Usage of Incremental Unlabeled Data for Semi-supervised Continual Learning.](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_ORDisCo_Effective_and_Efficient_Usage_of_Incremental_Unlabeled_Data_for_CVPR_2021_paper.html) In proc. of IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021.
+* **Liyuan Wang**, Kuo Yang, Chongxuan Li, Lanqing Hong, Zhenguo Li, Jun Zhu. [ORDisCo: Effective and Efficient Usage of Incremental Unlabeled Data for Semi-supervised Continual Learning.](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_ORDisCo_Effective_and_Efficient_Usage_of_Incremental_Unlabeled_Data_for_CVPR_2021_paper.html) In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021.
 
 * **Liyuan Wang**, Bo Lei, Qian Li, Hang Su, Jun Zhu, Yi Zhong. [Triple-Memory Networks: A Brain-Inspired Method for Continual Learning.](https://ieeexplore.ieee.org/document/9540230) IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2021, 33(5):1925-34.
     
