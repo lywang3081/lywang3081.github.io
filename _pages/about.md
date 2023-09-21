@@ -15,6 +15,9 @@ I have an interdisciplinary background in neuroscience and machine learning. My 
 Selected Publications
 ======
 **2023**
+* **Liyuan Wang**$^{\ast}$, Jingyi Xie$^{\ast}$, Xingxing Zhang, Mingyi Huang, Hang Su, Jun Zhu. [Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality.]() In Advances in Neural Information Processing Systems (**NeurIPS**), **Spotlight**, 2023.
+
+* Yilin Lyu$^{\ast}$, **Liyuan Wang**$^{\ast}$, Xingxing Zhang, Zicheng Sun, Hang Su, Jun Zhu, Liping Jing. [Overcoming Recency Bias of Normalization Statistics in Continual Learning: Balance and Adaptation.]() In Advances in Neural Information Processing Systems (**NeurIPS**), 2023.
 
 * **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Qian Li, Mingtian Zhang, Hang Su, Jun Zhu, Yi Zhong. [Incorporating Neuro-Inspired Adaptability for Continual Learning in Artificial Intelligence.]() **Nature Machine Intelligence** (Accepted in Principle), 2023.
 
