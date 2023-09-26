@@ -19,7 +19,7 @@ Selected Publications
 
 * Yilin Lyu$^{\ast}$, **Liyuan Wang**$^{\ast}$, Xingxing Zhang, Zicheng Sun, Hang Su, Jun Zhu, Liping Jing. [Overcoming Recency Bias of Normalization Statistics in Continual Learning: Balance and Adaptation.]() In Advances in Neural Information Processing Systems (**NeurIPS**), 2023.
 
-* **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Qian Li, Mingtian Zhang, Hang Su, Jun Zhu, Yi Zhong. [Incorporating Neuro-Inspired Adaptability for Continual Learning in Artificial Intelligence.]() **Nature Machine Intelligence** (Accepted in Principle), 2023.
+* **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Qian Li, Mingtian Zhang, Hang Su, Jun Zhu, Yi Zhong. [Incorporating Neuro-Inspired Adaptability for Continual Learning in Artificial Intelligence.]() **Nature Machine Intelligence** (Accepted), 2023.
 
 * Gengwei Zhang$^{\ast}$, **Liyuan Wang**$^{\ast}$, Guoliang Kang, Ling Chen, Yunchao Wei. [SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model.](https://arxiv.org/abs/2303.05118) In International Conference on Computer Vision (**ICCV**), 2023.
 
