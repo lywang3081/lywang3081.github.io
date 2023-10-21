@@ -15,9 +15,11 @@ I have an interdisciplinary background in neuroscience and machine learning. My 
 Selected Publications
 ======
 **2023**
-* **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Mingyi Huang, Hang Su, Jun Zhu. [Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality.](https://arxiv.org/abs/2310.07234) In Advances in Neural Information Processing Systems (**NeurIPS**), **Spotlight**, 2023.
+* **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Hang Su, Jun Zhu. [Towards a General Framework for Continual Learning with Pre-training.]() Intrinsically Motivated Open-ended Learning (IMOL) Workshop in NeurIPS 2023.
 
-* Yilin Lyu$^{\ast}$, **Liyuan Wang**$^{\ast}$, Xingxing Zhang, Zicheng Sun, Hang Su, Jun Zhu, Liping Jing. [Overcoming Recency Bias of Normalization Statistics in Continual Learning: Balance and Adaptation.]() In Advances in Neural Information Processing Systems (**NeurIPS**), 2023.
+* **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Mingyi Huang, Hang Su, Jun Zhu. [Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality.](https://arxiv.org/abs/2310.07234) In Neural Information Processing Systems (**NeurIPS**), **Spotlight**, 2023.
+
+* Yilin Lyu$^{\ast}$, **Liyuan Wang**$^{\ast}$, Xingxing Zhang, Zicheng Sun, Hang Su, Jun Zhu, Liping Jing. [Overcoming Recency Bias of Normalization Statistics in Continual Learning: Balance and Adaptation.]() In Neural Information Processing Systems (**NeurIPS**), 2023.
 
 * **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Qian Li, Mingtian Zhang, Hang Su, Jun Zhu, Yi Zhong. [Incorporating Neuro-Inspired Adaptability for Continual Learning in Artificial Intelligence.]() **Nature Machine Intelligence** (Accepted), 2023.
 
@@ -36,7 +38,7 @@ Selected Publications
 * **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Kuo Yang, Longhui Yu, Chongxuan Li, Lanqing Hong, Shifeng Zhang, Zhenguo Li, Yi Zhong, Jun Zhu. [Memory Replay with Data Compression for Continual Learning.](https://openreview.net/pdf?id=a7H7OucbWaU) In International Conference on Learning Representations (**ICLR**), 2022.
   
 **2021**
-* **Liyuan Wang**, Mingtian Zhang, Zhongfan Jia, Qian Li, Chenglong Bao, Kaisheng Ma, Jun Zhu, Yi Zhong. [AFEC: Active Forgetting of Negative Transfer in Continual Learning.](https://papers.nips.cc/paper/2021/hash/bc6dc48b743dc5d013b1abaebd2faed2-Abstract.html) In Advances in Neural Information Processing Systems (**NeurIPS**), 2021.
+* **Liyuan Wang**, Mingtian Zhang, Zhongfan Jia, Qian Li, Chenglong Bao, Kaisheng Ma, Jun Zhu, Yi Zhong. [AFEC: Active Forgetting of Negative Transfer in Continual Learning.](https://papers.nips.cc/paper/2021/hash/bc6dc48b743dc5d013b1abaebd2faed2-Abstract.html) In Neural Information Processing Systems (**NeurIPS**), 2021.
   
 * **Liyuan Wang**, Kuo Yang, Chongxuan Li, Lanqing Hong, Zhenguo Li, Jun Zhu. [ORDisCo: Effective and Efficient Usage of Incremental Unlabeled Data for Semi-supervised Continual Learning.](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_ORDisCo_Effective_and_Efficient_Usage_of_Incremental_Unlabeled_Data_for_CVPR_2021_paper.html) In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021.
 
