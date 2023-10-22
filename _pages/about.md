@@ -56,8 +56,8 @@ Honors and Awards
 ======
 * Shuimu Tsinghua Scholar for Postdoc Researcher, 2023.
 * National Scholarship for Graduate Student, 2022.
-* Outstanding Graduate Award in Tsinghua University, 2017.
-* Outstanding Graduate Award in Beijing, 2017.
+* Tsinghua Outstanding Graduate Award, 2017.
+* Beijing Outstanding Graduate Award, 2017.
 * National Scholarship for Undergraduate Student, 2014, 2015, 2016.
 
   
