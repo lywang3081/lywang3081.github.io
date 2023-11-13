@@ -19,7 +19,7 @@ Selected Publications
 
 * **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Mingyi Huang, Hang Su, Jun Zhu. [Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality.](https://arxiv.org/abs/2310.07234) In Neural Information Processing Systems (**NeurIPS**), **Spotlight**, 2023.
 
-* Yilin Lyu$^{\ast}$, **Liyuan Wang**$^{\ast}$, Xingxing Zhang, Zicheng Sun, Hang Su, Jun Zhu, Liping Jing. [Overcoming Recency Bias of Normalization Statistics in Continual Learning: Balance and Adaptation.]() In Neural Information Processing Systems (**NeurIPS**), 2023.
+* Yilin Lyu$^{\ast}$, **Liyuan Wang**$^{\ast}$, Xingxing Zhang, Zicheng Sun, Hang Su, Jun Zhu, Liping Jing. [Overcoming Recency Bias of Normalization Statistics in Continual Learning: Balance and Adaptation.](https://arxiv.org/abs/2310.08855) In Neural Information Processing Systems (**NeurIPS**), 2023.
 
 * **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Qian Li, Mingtian Zhang, Hang Su, Jun Zhu, Yi Zhong. [Incorporating Neuro-Inspired Adaptability for Continual Learning in Artificial Intelligence.]() **Nature Machine Intelligence** (Accepted), 2023.
 
