@@ -15,7 +15,7 @@ I have an interdisciplinary background in neuroscience and machine learning. My 
 Selected Publications
 ======
 **2023**
-* **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Hang Su, Jun Zhu. [Towards a General Framework for Continual Learning with Pre-training.]() In Intrinsically Motivated Open-ended Learning (IMOL) Workshop in NeurIPS 2023.
+* **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Hang Su, Jun Zhu. [Towards a General Framework for Continual Learning with Pre-training.]() In NeurIPS Intrinsically Motivated Open-ended Learning (IMOL) Workshop (**NeurIPSW**), 2023.
 
 * **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Mingyi Huang, Hang Su, Jun Zhu. [Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality.](https://arxiv.org/abs/2310.07234) In Neural Information Processing Systems (**NeurIPS**), **Spotlight**, 2023.
 
