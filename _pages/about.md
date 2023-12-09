@@ -12,16 +12,14 @@ I received the BS degree also from Tsinghua University (Aug 2013 - Jul 2017), wi
 
 I have an interdisciplinary background in neuroscience and machine learning. My primary research interest lies in the development of bio-inspired machine learning methodologies and generic computational models for neuroscience. The current focus includes **continual / incremental / lifelong learning** and **transfer learning**, by exploring "**natural algorithms**" in biological learning and memory.
 
-News
+Recent News
 ======
-* 2023/11 Our paper about bio-inspired continual learning is online in Nature Machine Intelligence.
-* 2023/10 One paper is accepted by the IMOL workshop in NeurIPS 2023.
-* 2023/09 Two papers are accepted by NeurIPS 2023 (with one spotlight).
-* 2023/07 I received the Outstanding Poster Award in CCCN 2023.
-* 2023/07 One paper is accepted by ICCV 2023.
-* 2023/06 I received my PhD degree after four years of hard work.
-
-
+* 2023/11  One paper is online in Nature Machine Intelligence.
+* 2023/10  One paper is accepted by the IMOL workshop in NeurIPS 2023.
+* 2023/09  Two papers are accepted by NeurIPS 2023 (with one spotlight).
+* 2023/07  I received the Outstanding Poster Award in CCCN 2023.
+* 2023/07  One paper is accepted by ICCV 2023.
+* 2023/06  I received my PhD degree after four years of hard work.
 
 
 Selected Publications
