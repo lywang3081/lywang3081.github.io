@@ -20,6 +20,7 @@ Recent News
 * 2023/07  I received the Outstanding Poster Award in CCCN 2023.
 * 2023/07  One paper is accepted by ICCV 2023.
 * 2023/06  I received my PhD degree after four years of hard work.
+* 2023/02  Our continual learning survey is online in arXiv.
 
 
 Selected Publications
