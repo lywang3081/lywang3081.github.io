@@ -16,7 +16,8 @@ My email address is changed from *wly19@mails.tsinghua.edu.cn* to *wly19@tsinghu
 
 Recent News
 ======
-* 2023/11  One paper is online in Nature Machine Intelligence.
+* 2023/12  Our paper is selected as the cover story of NMI (Dec. 2023).
+* 2023/11  One paper is published in Nature Machine Intelligence.
 * 2023/10  One paper is accepted by the IMOL workshop in NeurIPS 2023.
 * 2023/09  Two papers are accepted by NeurIPS 2023 (with one spotlight).
 * 2023/07  I was selected as a Shuimu Tsinghua Scholar.
