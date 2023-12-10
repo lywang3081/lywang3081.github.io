@@ -14,7 +14,8 @@ I have an interdisciplinary background in neuroscience and machine learning. My 
 
 I will be on the job market of 2025 fall, looking for opportunities in both academia and industry.
 
-My email address is changed from *wly19@mails.tsinghua.edu.cn* to *wly19@tsinghua.org.cn*. You can also contact me via *ly_wang94@126.com*.
+My email address is changed from *wly19@mails.tsinghua.edu.cn* to *wly19@tsinghua.org.cn*. 
+You can also contact me via *ly_wang94@126.com*.
 
 Recent News
 ======
