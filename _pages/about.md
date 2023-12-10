@@ -12,6 +12,8 @@ I received the BS degree also from Tsinghua University (Aug 2013 - Jul 2017), wi
 
 I have an interdisciplinary background in neuroscience and machine learning. My primary research interest lies in the development of bio-inspired machine learning methodologies and generic computational models for neuroscience. The current focus includes **continual / incremental / lifelong learning** and **transfer learning**, by exploring "**natural algorithms**" in biological learning and memory. I'm also exploring AI algorithms that serve other scientific domains. Welcome discussion and collaboration if you are interested in my research.
 
+I will be on the job market of 2025 fall, looking for opportunities in both academia and industry.
+
 My email address is changed from *wly19@mails.tsinghua.edu.cn* to *wly19@tsinghua.org.cn*. You can also contact me via *ly_wang94@126.com*.
 
 Recent News
