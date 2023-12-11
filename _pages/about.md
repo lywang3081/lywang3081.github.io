@@ -29,7 +29,7 @@ Recent News
 * 2023/02  Our continual learning survey is online in arXiv.
 
 
-Selected Publications
+Recent Publications
 ======
 * **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Qian Li, Mingtian Zhang, Hang Su, Jun Zhu, Yi Zhong. [Incorporating Neuro-Inspired Adaptability for Continual Learning in Artificial Intelligence.](https://www.nature.com/articles/s42256-023-00747-w) **Nature Machine Intelligence**, 2023.
 
