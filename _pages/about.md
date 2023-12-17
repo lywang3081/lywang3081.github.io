@@ -31,7 +31,7 @@ Recent News
 
 Recent Publications
 ======
-* **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Qian Li, Mingtian Zhang, Hang Su, Jun Zhu, Yi Zhong. [Incorporating Neuro-Inspired Adaptability for Continual Learning in Artificial Intelligence.](https://www.nature.com/articles/s42256-023-00747-w) **Nature Machine Intelligence**, 2023.
+* **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Qian Li, Mingtian Zhang, Hang Su, Jun Zhu, Yi Zhong. [Incorporating Neuro-Inspired Adaptability for Continual Learning in Artificial Intelligence.](https://www.nature.com/articles/s42256-023-00747-w) **Nature Machine Intelligence**, **Cover Story**, 2023.
 
 * **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Hang Su, Jun Zhu. [Towards a General Framework for Continual Learning with Pre-training.]() In NeurIPS Intrinsically Motivated Open-ended Learning (IMOL) Workshop (**NeurIPSW**), 2023.
 
