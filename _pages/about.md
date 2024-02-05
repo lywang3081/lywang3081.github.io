@@ -19,7 +19,7 @@ My email address is changed to *wly19@tsinghua.org.cn* (and also *ly_wang94@126.
 Recent News
 ======
 * 2024/02  Our continual learning survey is accepted by IEEE TPAMI.
-* 2023/12  Our paper is featured as the cover story of NMI.
+* 2023/12  Our paper is featured as the cover article of NMI.
 * 2023/11  One paper is published in Nature Machine Intelligence.
 * 2023/10  One paper is accepted by the IMOL workshop in NeurIPS 2023.
 * 2023/09  Two papers are accepted by NeurIPS 2023 (with one spotlight).
@@ -35,7 +35,7 @@ Recent Publications
 
 * **Liyuan Wang**, Xingxing Zhang, Hang Su, Jun Zhu. [A Comprehensive Survey of Continual Learning: Theory, Method and Application.](https://arxiv.org/abs/2302.00487). IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024. Reported in [Zhuanzhi](https://mp.weixin.qq.com/s/SGlUFOVJkWcpueaqzjWiyw), [AI Era](https://mp.weixin.qq.com/s/uPHDl64Akh0J26CtzUxnrA), [Zhihu](https://zhuanlan.zhihu.com/p/624087913), [Twitter](https://twitter.com/Jeande_d/status/1622710336058195968).
   
-* **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Qian Li, Mingtian Zhang, Hang Su, Jun Zhu, Yi Zhong. [Incorporating Neuro-Inspired Adaptability for Continual Learning in Artificial Intelligence.](https://www.nature.com/articles/s42256-023-00747-w) **Nature Machine Intelligence**, **Cover Story**, 2023.
+* **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Qian Li, Mingtian Zhang, Hang Su, Jun Zhu, Yi Zhong. [Incorporating Neuro-Inspired Adaptability for Continual Learning in Artificial Intelligence.](https://www.nature.com/articles/s42256-023-00747-w) **Nature Machine Intelligence**, **Cover Article**, 2023.
 
 * **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Hang Su, Jun Zhu. [Towards a General Framework for Continual Learning with Pre-training.]() In NeurIPS Intrinsically Motivated Open-ended Learning (IMOL) Workshop (**NeurIPSW**), 2023.
 
