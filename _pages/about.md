@@ -37,11 +37,11 @@ Recent Publications
   
 * **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Qian Li, Mingtian Zhang, Hang Su, Jun Zhu, Yi Zhong. [Incorporating Neuro-Inspired Adaptability for Continual Learning in Artificial Intelligence.](https://www.nature.com/articles/s42256-023-00747-w) **Nature Machine Intelligence**, **Cover Article**, 2023.
 
-* **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Hang Su, Jun Zhu. [Towards a General Framework for Continual Learning with Pre-training.]() In NeurIPS Intrinsically Motivated Open-ended Learning (IMOL) Workshop (**NeurIPSW**), 2023.
-
 * **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Mingyi Huang, Hang Su, Jun Zhu. [Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality.](https://arxiv.org/abs/2310.07234) In Neural Information Processing Systems (**NeurIPS**), **Spotlight**, 2023.
 
 * Yilin Lyu$^{\ast}$, **Liyuan Wang**$^{\ast}$, Xingxing Zhang, Zicheng Sun, Hang Su, Jun Zhu, Liping Jing. [Overcoming Recency Bias of Normalization Statistics in Continual Learning: Balance and Adaptation.](https://arxiv.org/abs/2310.08855) In Neural Information Processing Systems (**NeurIPS**), 2023.
+
+* **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Hang Su, Jun Zhu. [Towards a General Framework for Continual Learning with Pre-training.]() In NeurIPS Intrinsically Motivated Open-ended Learning (IMOL) Workshop (**NeurIPSW**), 2023.
 
 * Gengwei Zhang$^{\ast}$, **Liyuan Wang**$^{\ast}$, Guoliang Kang, Ling Chen, Yunchao Wei. [SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model.](https://arxiv.org/abs/2303.05118) In International Conference on Computer Vision (**ICCV**), 2023.
 
