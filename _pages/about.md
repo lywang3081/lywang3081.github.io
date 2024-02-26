@@ -18,6 +18,7 @@ My email address is changed to *wly19@tsinghua.org.cn* (and also *ly_wang94@126.
 
 Recent News
 ======
+* 2024/02  One paper is accepted by CVPR 2024.
 * 2024/02  Our continual learning survey is accepted by IEEE TPAMI.
 * 2023/12  Our paper is featured as the cover article of NMI.
 * 2023/11  One paper is published in Nature Machine Intelligence.
