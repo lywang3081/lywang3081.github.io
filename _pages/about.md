@@ -65,8 +65,8 @@ Recent Publications
 
 Academic Services
 ======
-* Conference Reviewer: NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, ACM MM, CoLLAs
-* Journal Reviewer: TPAMI, TIP, TNNLS, TCSVT, Artificial Intelligence, Neural Networks
+* Conference Reviewer: NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, ACM MM, CogSci, CoLLAs
+* Journal Reviewer: TPAMI, TIP, TNNLS, TCSVT, Artificial Intelligence, Neural Networks, ACM Computing Surveys
 
 
 
