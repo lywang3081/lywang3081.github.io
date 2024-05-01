@@ -18,6 +18,7 @@ My email address is changed to *wly19@tsinghua.org.cn* (and also *ly_wang94@126.
 
 Recent News
 ======
+* 2024/04  One paper is accepted by IJCAI 2024.
 * 2024/02  One paper is accepted by CVPR 2024.
 * 2024/02  Our continual learning survey is accepted by IEEE TPAMI.
 * 2023/12  Our paper is featured as the cover article of NMI.
@@ -34,7 +35,7 @@ Recent News
 Recent Publications
 ======
 
-* Hongwei Yan, **Liyuan Wang**$^{\dagger}$, Kaisheng Ma$^{\dagger}$, Yi Zhong$^{\dagger}$. [Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation.](https://arxiv.org/abs/2404.00417) In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.
+* Hongwei Yan, **Liyuan Wang**$^{\dagger}$, Kaisheng Ma$^{\dagger}$, Yi Zhong$^{\dagger}$. [Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation.](https://arxiv.org/abs/2404.00417) In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.
 
 * **Liyuan Wang**, Xingxing Zhang, Hang Su, Jun Zhu. [A Comprehensive Survey of Continual Learning: Theory, Method and Application.](https://arxiv.org/abs/2302.00487) IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024. Reported in [Zhuanzhi](https://mp.weixin.qq.com/s/SGlUFOVJkWcpueaqzjWiyw), [AI Era](https://mp.weixin.qq.com/s/uPHDl64Akh0J26CtzUxnrA), [Zhihu](https://zhuanlan.zhihu.com/p/624087913), [Twitter](https://twitter.com/Jeande_d/status/1622710336058195968).
   
@@ -58,7 +59,7 @@ Recent Publications
 
 * **Liyuan Wang**, Mingtian Zhang, Zhongfan Jia, Qian Li, Chenglong Bao, Kaisheng Ma, Jun Zhu, Yi Zhong. [AFEC: Active Forgetting of Negative Transfer in Continual Learning.](https://papers.nips.cc/paper/2021/hash/bc6dc48b743dc5d013b1abaebd2faed2-Abstract.html) In Neural Information Processing Systems (**NeurIPS**), 2021.
   
-* **Liyuan Wang**, Kuo Yang, Chongxuan Li, Lanqing Hong, Zhenguo Li, Jun Zhu. [ORDisCo: Effective and Efficient Usage of Incremental Unlabeled Data for Semi-supervised Continual Learning.](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_ORDisCo_Effective_and_Efficient_Usage_of_Incremental_Unlabeled_Data_for_CVPR_2021_paper.html) In IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021.
+* **Liyuan Wang**, Kuo Yang, Chongxuan Li, Lanqing Hong, Zhenguo Li, Jun Zhu. [ORDisCo: Effective and Efficient Usage of Incremental Unlabeled Data for Semi-supervised Continual Learning.](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_ORDisCo_Effective_and_Efficient_Usage_of_Incremental_Unlabeled_Data_for_CVPR_2021_paper.html) In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021.
 
 * **Liyuan Wang**, Bo Lei, Qian Li, Hang Su, Jun Zhu, Yi Zhong. [Triple-Memory Networks: A Brain-Inspired Method for Continual Learning.](https://ieeexplore.ieee.org/document/9540230) IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2021, 33(5):1925-34.
     
