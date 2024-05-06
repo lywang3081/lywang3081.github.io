@@ -12,7 +12,7 @@ I received the BS degree also from Tsinghua University (Aug 2013 - Jul 2017), wi
 
 I have an interdisciplinary background in neuroscience and machine learning. My primary research interest lies in the development of bio-inspired machine learning methodologies and generic computational models for neuroscience. The current focus includes **continual / incremental / lifelong learning** and **transfer learning**, by exploring "**natural algorithms**" in biological learning and memory. I'm also exploring AI algorithms that serve other scientific domains. Welcome discussion and collaboration if you are interested in my research.
 
-![my_research_eng_](https://github.com/lywang3081/lywang3081.github.io/assets/53937203/784d688e-37e1-4fb1-8e91-abcc9644e96d)
+![my_research_eng_](https://github.com/lywang3081/lywang3081.github.io/assets/53937203/2807d11d-51a1-455b-9b2f-e866c07f33e9)
 
 I will be on the job market of 2025, looking for opportunities in both academia and industry.
 
