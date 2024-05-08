@@ -12,7 +12,7 @@ I received the BS degree also from Tsinghua University (Aug 2013 - Jul 2017), wi
 
 I have an interdisciplinary background in neuroscience and machine learning. My primary research interest lies in the development of bio-inspired machine learning methodologies and generic computational models for neuroscience. The current focus includes **continual / incremental / lifelong learning** and **transfer learning**, by exploring "**natural algorithms**" in biological learning and memory. I'm also exploring AI algorithms that serve other scientific domains. Welcome discussion and collaboration if you are interested in my research.
 
-![my_research_eng_](https://github.com/lywang3081/lywang3081.github.io/assets/53937203/2807d11d-51a1-455b-9b2f-e866c07f33e9)
+![my_research_eng_](https://github.com/lywang3081/lywang3081.github.io/assets/53937203/5a65f61f-29ce-4c9a-8cd8-a0b426715068)
 
 I will be on the job market of 2025, looking for opportunities in both academia and industry.
 
@@ -68,7 +68,7 @@ Recent Publications
 
 Academic Services
 ======
-* Conference Reviewer: NeurIPS (2021, 2022, 2023), ICML (2024), ICLR (2022, 2023, 2024), CVPR (2022, 2023, 2024), ICCV (2023), ECCV (2022, 2024), IJCAI (2024), ACM MM (2022, 2023), CogSci (2024), CoLLAs (2023, 2024)
+* Conference Reviewer: NeurIPS (2021, 2022, 2023, 2024), ICML (2024), ICLR (2022, 2023, 2024), CVPR (2022, 2023, 2024), ICCV (2023), ECCV (2022, 2024), IJCAI (2024), ACM MM (2022, 2023), CogSci (2024), CoLLAs (2023, 2024)
 * Journal Reviewer: TPAMI, TIP, TNNLS, TCSVT, SCIS, Artificial Intelligence, Neural Networks, ACM Computing Surveys
 
 
