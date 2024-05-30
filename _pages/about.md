@@ -70,7 +70,7 @@ Academic Services
 ======
 * Organizer: Continual Learning Forum in ISNN (2024)
 * Conference Reviewer: NeurIPS (2021, 2022, 2023, 2024), ICML (2024), ICLR (2022, 2023, 2024), CVPR (2022, 2023, 2024), ICCV (2023), ECCV (2022, 2024), IJCAI (2024), ACM MM (2022, 2023), CogSci (2024), CoLLAs (2023, 2024)
-* Journal Reviewer: TPAMI, TIP, TNNLS, TCSVT, Artificial Intelligence, Neural Networks, ACM Computing Surveys
+* Journal Reviewer: TPAMI, TIP, TNNLS, TCSVT, TETCI, Artificial Intelligence, Neural Networks, ACM Computing Surveys
 
 
 
