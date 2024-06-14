@@ -20,16 +20,17 @@ My email address is changed to *wly19@tsinghua.org.cn* (and also *ly_wang94@126.
 
 Recent News
 ======
-* 2024/04  One paper is accepted by IJCAI 2024.
-* 2024/02  One paper is accepted by CVPR 2024.
-* 2024/02  Our continual learning survey is accepted by IEEE TPAMI.
+* 2024/06  I was awarded as the World AI Conference (WAIC) Rising Stars.
+* 2024/04  One paper is accepted to IJCAI 2024.
+* 2024/02  One paper is accepted to CVPR 2024.
+* 2024/02  Our continual learning survey is accepted to IEEE TPAMI.
 * 2023/12  Our paper is featured as the cover article of NMI.
 * 2023/11  One paper is published in Nature Machine Intelligence.
-* 2023/10  One paper is accepted by the IMOL workshop in NeurIPS 2023.
-* 2023/09  Two papers are accepted by NeurIPS 2023 (with one spotlight).
+* 2023/10  One paper is accepted to the IMOL workshop in NeurIPS 2023.
+* 2023/09  Two papers are accepted to NeurIPS 2023 (with one spotlight).
 * 2023/07  I was selected as a Shuimu Tsinghua Scholar.
 * 2023/07  I received the Outstanding Poster Award in CCCN 2023.
-* 2023/07  One paper is accepted by ICCV 2023.
+* 2023/07  One paper is accepted to ICCV 2023.
 * 2023/06  I received my PhD degree after four years of hard work.
 * 2023/02  Our continual learning survey is online in arXiv.
 
@@ -76,6 +77,7 @@ Academic Services
 
 Honors and Awards
 ======
+* World AI Conference (WAIC) Rising Stars, 2024.
 * Shuimu Tsinghua Scholar for Postdoc Researcher, 2023.
 * National Scholarship for Graduate Student, 2022.
 * Beijing Outstanding Graduate Award, 2017.
