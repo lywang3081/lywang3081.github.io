@@ -20,7 +20,7 @@ My email address is changed to *wly19@tsinghua.org.cn* (and also *ly_wang94@126.
 
 Recent News
 ======
-* 2024/06  I was awarded as the World AI Conference (WAIC) Rising Stars.
+* 2024/06  I was awarded the World AI Conference (WAIC) Rising Star.
 * 2024/04  One paper is accepted to IJCAI 2024.
 * 2024/02  One paper is accepted to CVPR 2024.
 * 2024/02  Our continual learning survey is accepted to IEEE TPAMI.
@@ -77,7 +77,7 @@ Academic Services
 
 Honors and Awards
 ======
-* World AI Conference (WAIC) Rising Stars, 2024.
+* World AI Conference (WAIC) Rising Star, 2024.
 * Shuimu Tsinghua Scholar for Postdoc Researcher, 2023.
 * National Scholarship for Graduate Student, 2022.
 * Beijing Outstanding Graduate Award, 2017.
