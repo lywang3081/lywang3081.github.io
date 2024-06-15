@@ -28,7 +28,7 @@ Recent News
 * 2023/11  One paper is published in Nature Machine Intelligence.
 * 2023/10  One paper is accepted to the IMOL workshop in NeurIPS 2023.
 * 2023/09  Two papers are accepted to NeurIPS 2023 (with one spotlight).
-* 2023/07  I was selected as a Shuimu Tsinghua Scholar.
+* 2023/07  I was awarded the Shuimu Tsinghua Scholar.
 * 2023/07  I received the Outstanding Poster Award in CCCN 2023.
 * 2023/07  One paper is accepted to ICCV 2023.
 * 2023/06  I received my PhD degree after four years of hard work.
