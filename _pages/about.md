@@ -20,7 +20,7 @@ My email address is changed to *wly19@tsinghua.org.cn* (and also *ly_wang94@126.
 
 Recent News
 ======
-* 2024/06  I was awarded the WAIC Rising Star (15 in total).
+* 2024/06  I was awarded the WAIC Rising Star (15 AI researchers in total).
 * 2024/04  One paper is accepted to IJCAI 2024.
 * 2024/02  One paper is accepted to CVPR 2024.
 * 2024/02  Our continual learning survey is accepted to IEEE TPAMI.
