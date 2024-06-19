@@ -38,7 +38,7 @@ Recent News
 Recent Publications
 ======
 
-* Hongwei Yan, **Liyuan Wang**$^{\dagger}$, Kaisheng Ma$^{\dagger}$, Yi Zhong$^{\dagger}$. [Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation.](https://arxiv.org/abs/2404.00417) In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.
+* Hongwei Yan, **Liyuan Wang**$^{\dagger}$, Kaisheng Ma, Yi Zhong. [Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation.](https://arxiv.org/abs/2404.00417) In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.
 
 * **Liyuan Wang**, Xingxing Zhang, Hang Su, Jun Zhu. [A Comprehensive Survey of Continual Learning: Theory, Method and Application.](https://arxiv.org/abs/2302.00487) IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024. Reported in [Zhuanzhi](https://mp.weixin.qq.com/s/SGlUFOVJkWcpueaqzjWiyw), [AI Era](https://mp.weixin.qq.com/s/uPHDl64Akh0J26CtzUxnrA), [Zhihu](https://zhuanlan.zhihu.com/p/624087913), [Twitter](https://twitter.com/Jeande_d/status/1622710336058195968).
   
