@@ -39,6 +39,12 @@ Recent News
 Recent Publications
 ======
 
+* **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Hang Su, Jun Zhu. [HiDe-PET: Continual Learning via Hierarchical Decomposition of Parameter-Efficient Tuning.]() arXiv, 2024.
+
+* Kanglei Zhou, **Liyuan Wang**, Xingxing Zhang, Hubert Shum, Frederick Li, Jianguo Li, Xiaohui Liang. [MAGR: Manifold-Aligned Graph Regularization for Continual Action Quality Assessment.](https://arxiv.org/abs/2403.04398) In European Conference on Computer Vision (**ECCV**), 2024.
+
+* Kanglei Zhou, Junlin Li, Ruizhi Cai, **Liyuan Wang**, Xingxing Zhang, Xiaohui Liang. [CoFInAl: Enhancing Action Quality Assessment with Coarse-to-Fine Instruction Alignment.](https://arxiv.org/abs/2404.13999) In International Joint Conference on Artificial Intelligence (**IJCAI**), 2024.
+
 * Hongwei Yan, **Liyuan Wang**$^{\dagger}$, Kaisheng Ma, Yi Zhong. [Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation.](https://arxiv.org/abs/2404.00417) In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.
 
 * **Liyuan Wang**, Xingxing Zhang, Hang Su, Jun Zhu. [A Comprehensive Survey of Continual Learning: Theory, Method and Application.](https://arxiv.org/abs/2302.00487) IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024. Reported in [Zhuanzhi](https://mp.weixin.qq.com/s/SGlUFOVJkWcpueaqzjWiyw), [AI Era](https://mp.weixin.qq.com/s/uPHDl64Akh0J26CtzUxnrA), [Zhihu](https://zhuanlan.zhihu.com/p/624087913), [Twitter](https://twitter.com/Jeande_d/status/1622710336058195968).
