@@ -20,7 +20,7 @@ My email address is changed to *wly19@tsinghua.org.cn* (and also *ly_wang94@126.
 
 Recent News
 ======
-* 2024/07  One paper is accepted to ECCV 2024.
+* 2024/07  One paper is accepted to ECCV 2024 (as an oral).
 * 2024/06  I was awarded the WAIC Rising Star (15 AI researchers in total).
 * 2024/04  One paper is accepted to IJCAI 2024.
 * 2024/02  One paper is accepted to CVPR 2024.
@@ -41,7 +41,7 @@ Recent Publications
 
 * **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Hang Su, Jun Zhu. [HiDe-PET: Continual Learning via Hierarchical Decomposition of Parameter-Efficient Tuning.](https://arxiv.org/abs/2407.05229) arXiv:2407.05229, Under Review, 2024.
 
-* Kanglei Zhou, **Liyuan Wang**, Xingxing Zhang, Hubert Shum, Frederick Li, Jianguo Li, Xiaohui Liang. [MAGR: Manifold-Aligned Graph Regularization for Continual Action Quality Assessment.](https://arxiv.org/abs/2403.04398) In European Conference on Computer Vision (**ECCV**), 2024.
+* Kanglei Zhou, **Liyuan Wang**, Xingxing Zhang, Hubert Shum, Frederick Li, Jianguo Li, Xiaohui Liang. [MAGR: Manifold-Aligned Graph Regularization for Continual Action Quality Assessment.](https://arxiv.org/abs/2403.04398) In European Conference on Computer Vision (**ECCV**), **Oral**, 2024.
 
 * Kanglei Zhou, Junlin Li, Ruizhi Cai, **Liyuan Wang**, Xingxing Zhang, Xiaohui Liang. [CoFInAl: Enhancing Action Quality Assessment with Coarse-to-Fine Instruction Alignment.](https://arxiv.org/abs/2404.13999) In International Joint Conference on Artificial Intelligence (**IJCAI**), 2024.
 
