@@ -39,6 +39,8 @@ Recent News
 Recent Publications
 ======
 
+* Gengwei Zhang$^{\ast}$, **Liyuan Wang**$^{\ast}$, Guoliang Kang, Ling Chen, Yunchao Wei. [SLCA++: Unleash the Power of Sequential Fine-tuning for Continual Learning with Pre-training.](https://arxiv.org/abs/2408.08295) arXiv:2408.08295, Under Review, 2024.
+
 * **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Hang Su, Jun Zhu. [HiDe-PET: Continual Learning via Hierarchical Decomposition of Parameter-Efficient Tuning.](https://arxiv.org/abs/2407.05229) arXiv:2407.05229, Under Review, 2024.
 
 * Kanglei Zhou, **Liyuan Wang**, Xingxing Zhang, Hubert Shum, Frederick Li, Jianguo Li, Xiaohui Liang. [MAGR: Manifold-Aligned Graph Regularization for Continual Action Quality Assessment.](https://arxiv.org/abs/2403.04398) In European Conference on Computer Vision (**ECCV**), **Oral**, 2024.
@@ -76,7 +78,6 @@ Recent Publications
 * **Liyuan Wang**, Qian Li, Yi Zhong, Jun Zhu. [Few-shot Continual Learning: a Brain-inspired Approach.](https://arxiv.org/abs/2104.09034) arXiv:2104.09034, 2021.
     
     
-
 Academic Services
 ======
 * Organizer: Continual Learning Forum in ISNN (2024)
