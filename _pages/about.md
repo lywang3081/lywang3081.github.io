@@ -43,6 +43,8 @@ Recent Publications
 
 * **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Hang Su, Jun Zhu. [HiDe-PET: Continual Learning via Hierarchical Decomposition of Parameter-Efficient Tuning.](https://arxiv.org/abs/2407.05229) arXiv:2407.05229, Under Review, 2024.
 
+* Ziqi Yuan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Wenbo Ding, Xingxing Zhang, Jiachen Zhong, Jianyong Ai, Jianmin Li, Jun Zhu. [DualTeacher: Bridging Coexistence of Unlabelled Classes for Semi-supervised Incremental Object Detection.](https://arxiv.org/abs/2401.05362) arXiv:2401.05362, Under Review, 2024.
+
 * Kanglei Zhou, **Liyuan Wang**, Xingxing Zhang, Hubert Shum, Frederick Li, Jianguo Li, Xiaohui Liang. [MAGR: Manifold-Aligned Graph Regularization for Continual Action Quality Assessment.](https://arxiv.org/abs/2403.04398) In European Conference on Computer Vision (**ECCV**), **Oral**, 2024.
 
 * Kanglei Zhou, Junlin Li, Ruizhi Cai, **Liyuan Wang**, Xingxing Zhang, Xiaohui Liang. [CoFInAl: Enhancing Action Quality Assessment with Coarse-to-Fine Instruction Alignment.](https://arxiv.org/abs/2404.13999) In International Joint Conference on Artificial Intelligence (**IJCAI**), 2024.
