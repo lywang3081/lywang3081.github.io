@@ -20,6 +20,9 @@ My email address is changed to *wly19@tsinghua.org.cn* (and also *ly_wang94@126.
 
 Recent News
 ======
+* 2024/01  One paper is accepted to ICLR 2025.
+* 2024/01  One paper is accepted to IEEE VR-TVCG 2025.
+* 2024/09  I received the Excellent Conference Poster Award in CNS 2024.
 * 2024/07  One paper is accepted to ECCV 2024 (as an oral).
 * 2024/06  I was awarded the WAIC Rising Star (15 AI researchers in total).
 * 2024/04  One paper is accepted to IJCAI 2024.
@@ -39,6 +42,12 @@ Recent News
 Recent Publications
 ======
 
+* Zhiqi Kang, **Liyuan Wang**$^{\dagger}$, Xingxing Zhang, Karteek Alahari$^{\dagger}$. [Advancing Prompt-based Methods for Replay-Independent General Continual Learning.][] International Conference on Learning Representations (**ICLR**), 2024.
+
+* Kanglei Zhou, Zikai Hao, **Liyuan Wang**, Xiaohui Liang. [Adaptive Score Alignment Learning for Continual Perceptual Quality Assessment of 360-Degree Videos in Virtual Reality.][] IEEE Visual Reality - IEEE Transactions on Visualization and Computer Graphics (**VR-TVCG**), 2025.
+
+* Kanglei Zhou, Ruizhi Cai, **Liyuan Wang**, Hubert P. H. Shum, Xiaohui Liang. [A Comprehensive Survey of Action Quality Assessment: Method and Benchmark.][https://arxiv.org/abs/2412.11149] arXiv:2412.11149, Under Review, 2025.
+
 * Gengwei Zhang$^{\ast}$, **Liyuan Wang**$^{\ast}$, Guoliang Kang, Ling Chen, Yunchao Wei. [SLCA++: Unleash the Power of Sequential Fine-tuning for Continual Learning with Pre-training.](https://arxiv.org/abs/2408.08295) arXiv:2408.08295, Under Review, 2024.
 
 * **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Hang Su, Jun Zhu. [HiDe-PET: Continual Learning via Hierarchical Decomposition of Parameter-Efficient Tuning.](https://arxiv.org/abs/2407.05229) arXiv:2407.05229, Under Review, 2024.
@@ -51,7 +60,7 @@ Recent Publications
 
 * Hongwei Yan, **Liyuan Wang**$^{\dagger}$, Kaisheng Ma, Yi Zhong. [Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation.](https://arxiv.org/abs/2404.00417) In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.
 
-* **Liyuan Wang**, Xingxing Zhang, Hang Su, Jun Zhu. [A Comprehensive Survey of Continual Learning: Theory, Method and Application.](https://arxiv.org/abs/2302.00487) IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024. Reported in [Zhuanzhi](https://mp.weixin.qq.com/s/SGlUFOVJkWcpueaqzjWiyw), [AI Era](https://mp.weixin.qq.com/s/uPHDl64Akh0J26CtzUxnrA), [Zhihu](https://zhuanlan.zhihu.com/p/624087913), [Twitter](https://twitter.com/Jeande_d/status/1622710336058195968).
+* **Liyuan Wang**, Xingxing Zhang, Hang Su, Jun Zhu. [A Comprehensive Survey of Continual Learning: Theory, Method and Application.](https://arxiv.org/abs/2302.00487) IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), ESI Highly Cited Paper, 2024.
   
 * **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Qian Li, Mingtian Zhang, Hang Su, Jun Zhu, Yi Zhong. [Incorporating Neuro-Inspired Adaptability for Continual Learning in Artificial Intelligence.](https://www.nature.com/articles/s42256-023-00747-w) **Nature Machine Intelligence**, **Cover Paper**, 2023.
 
@@ -90,6 +99,7 @@ Academic Services
 
 Honors and Awards
 ======
+* CNS-RWD Award for Excellent Conference Poster, 2024.
 * World AI Conference (WAIC) Rising Star, 2024.
 * Shuimu Tsinghua Scholar for Postdoc Researcher, 2023.
 * National Scholarship for Graduate Student, 2022.
