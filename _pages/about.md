@@ -40,7 +40,7 @@ Recent News
 Recent Publications
 ======
 
-* Zhiqi Kang, **Liyuan Wang**$^{\dagger}$, Xingxing Zhang, Karteek Alahari$^{\dagger}$. [Advancing Prompt-based Methods for Replay-Independent General Continual Learning.]() In International Conference on Learning Representations (**ICLR**), 2024.
+* Zhiqi Kang, **Liyuan Wang**$^{\dagger}$, Xingxing Zhang, Karteek Alahari$^{\dagger}$. [Advancing Prompt-based Methods for Replay-Independent General Continual Learning.]() In International Conference on Learning Representations (**ICLR**), 2025.
 
 * Kanglei Zhou, Zikai Hao, **Liyuan Wang**, Xiaohui Liang. [Adaptive Score Alignment Learning for Continual Perceptual Quality Assessment of 360-Degree Videos in Virtual Reality.]() IEEE Visual Reality - Transactions on Visualization and Computer Graphics (**VR-TVCG**), 2025.
 
