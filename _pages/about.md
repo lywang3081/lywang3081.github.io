@@ -40,6 +40,8 @@ Recent News
 Recent Publications
 ======
 
+* Guanglong Sun, Hongwei Yan, **Liyuan Wang**$^{\dagger}$, Qian Li, Bo Lei, Yi Zhong$^{\dagger}$. [Right Time to Learn: Promoting Generalization via Bio-inspired Spacing Effect in Knowledge Distillation.]() arXiv, Under Review, 2025.
+
 * Zhiqi Kang, **Liyuan Wang**$^{\dagger}$, Xingxing Zhang, Karteek Alahari$^{\dagger}$. [Advancing Prompt-based Methods for Replay-Independent General Continual Learning.]() In International Conference on Learning Representations (**ICLR**), 2025.
 
 * Kanglei Zhou, Zikai Hao, **Liyuan Wang**, Xiaohui Liang. [Adaptive Score Alignment Learning for Continual Perceptual Quality Assessment of 360-Degree Videos in Virtual Reality.]() IEEE Visual Reality - Transactions on Visualization and Computer Graphics (**VR-TVCG**), 2025.
@@ -58,7 +60,7 @@ Recent Publications
 
 * Hongwei Yan, **Liyuan Wang**$^{\dagger}$, Kaisheng Ma, Yi Zhong. [Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation.](https://arxiv.org/abs/2404.00417) In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.
 
-* **Liyuan Wang**, Xingxing Zhang, Hang Su, Jun Zhu. [A Comprehensive Survey of Continual Learning: Theory, Method and Application.](https://arxiv.org/abs/2302.00487) IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), ESI Highly Cited Paper, 2024.
+* **Liyuan Wang**, Xingxing Zhang, Hang Su, Jun Zhu. [A Comprehensive Survey of Continual Learning: Theory, Method and Application.](https://arxiv.org/abs/2302.00487) IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), TPAMI Top-10 Popular Documents, ESI Highly Cited Paper, 2024.
   
 * **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Qian Li, Mingtian Zhang, Hang Su, Jun Zhu, Yi Zhong. [Incorporating Neuro-Inspired Adaptability for Continual Learning in Artificial Intelligence.](https://www.nature.com/articles/s42256-023-00747-w) **Nature Machine Intelligence**, **Cover Paper**, 2023.
 
