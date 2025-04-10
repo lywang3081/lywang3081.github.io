@@ -18,7 +18,7 @@ My email address is changed to *wly19@tsinghua.org.cn* (and also *ly_wang94@126.
 
 Recent News
 ======
-* 2025/04  I will serve as the Area Chair at NeurIPS 2025.
+* 2025/04  I will serve as an Area Chair at NeurIPS 2025.
 * 2025/01  One paper is accepted to ICLR 2025.
 * 2025/01  One paper is accepted to IEEE VR-TVCG 2025.
 * 2024/09  I received the Excellent Conference Poster Award in CNS 2024.
