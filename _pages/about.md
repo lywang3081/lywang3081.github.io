@@ -18,6 +18,7 @@ My email address is changed to *wly19@tsinghua.org.cn* (and also *ly_wang94@126.
 
 Recent News
 ======
+* 2025/04  One paper is accepted to IEEE TPAMI.
 * 2025/04  I will serve as an Area Chair at NeurIPS 2025.
 * 2025/01  One paper is accepted to ICLR 2025.
 * 2025/01  One paper is accepted to IEEE VR-TVCG 2025.
@@ -41,6 +42,8 @@ Recent News
 Recent Publications
 ======
 
+* **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Hang Su, Jun Zhu. [HiDe-PET: Continual Learning via Hierarchical Decomposition of Parameter-Efficient Tuning.](https://arxiv.org/abs/2407.05229) IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025.
+
 * Guanglong Sun, Hongwei Yan, **Liyuan Wang**$^{\dagger}$, Qian Li, Bo Lei, Yi Zhong$^{\dagger}$. [Right Time to Learn: Promoting Generalization via Bio-inspired Spacing Effect in Knowledge Distillation.](https://arxiv.org/abs/2502.06192) arXiv:2502.06192, Under Review, 2025.
 
 * Zhiqi Kang, **Liyuan Wang**$^{\dagger}$, Xingxing Zhang, Karteek Alahari$^{\dagger}$. [Advancing Prompt-based Methods for Replay-Independent General Continual Learning.](https://openreview.net/forum?id=V6uxd8MEqw) In International Conference on Learning Representations (**ICLR**), 2025.
@@ -50,8 +53,6 @@ Recent Publications
 * Kanglei Zhou, Ruizhi Cai, **Liyuan Wang**, Hubert P. H. Shum, Xiaohui Liang. [A Comprehensive Survey of Action Quality Assessment: Method and Benchmark.](https://arxiv.org/abs/2412.11149) arXiv:2412.11149, Under Review, 2025.
 
 * Gengwei Zhang$^{\ast}$, **Liyuan Wang**$^{\ast}$, Guoliang Kang, Ling Chen, Yunchao Wei. [SLCA++: Unleash the Power of Sequential Fine-tuning for Continual Learning with Pre-training.](https://arxiv.org/abs/2408.08295) arXiv:2408.08295, Under Review, 2024.
-
-* **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Hang Su, Jun Zhu. [HiDe-PET: Continual Learning via Hierarchical Decomposition of Parameter-Efficient Tuning.](https://arxiv.org/abs/2407.05229) arXiv:2407.05229, Under Review, 2024.
 
 * Ziqi Yuan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Wenbo Ding, Xingxing Zhang, Jiachen Zhong, Jianyong Ai, Jianmin Li, Jun Zhu. [DualTeacher: Bridging Coexistence of Unlabelled Classes for Semi-supervised Incremental Object Detection.](https://arxiv.org/abs/2401.05362) arXiv:2401.05362, Under Review, 2024.
 
