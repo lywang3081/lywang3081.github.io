@@ -19,6 +19,7 @@ My email address is changed to *wly19@tsinghua.org.cn* (and also *ly_wang94@126.
 Recent News
 ======
 * 2025/05  We are organizing the 6th CLVision Workshop in ICCV 2025.
+* 2025/05  One paper is accepted to ICML 2025.
 * 2025/04  One paper is accepted to IEEE TPAMI.
 * 2025/04  I will serve as an Area Chair at NeurIPS 2025.
 * 2025/01  One paper is accepted to ICLR 2025.
@@ -45,7 +46,7 @@ Recent Publications
 
 * **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Hang Su, Jun Zhu. [HiDe-PET: Continual Learning via Hierarchical Decomposition of Parameter-Efficient Tuning.](https://arxiv.org/abs/2407.05229) IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025.
 
-* Guanglong Sun, Hongwei Yan, **Liyuan Wang**$^{\dagger}$, Qian Li, Bo Lei, Yi Zhong$^{\dagger}$. [Right Time to Learn: Promoting Generalization via Bio-inspired Spacing Effect in Knowledge Distillation.](https://arxiv.org/abs/2502.06192) arXiv:2502.06192, Under Review, 2025.
+* Guanglong Sun, Hongwei Yan, **Liyuan Wang**$^{\dagger}$, Qian Li, Bo Lei, Yi Zhong$^{\dagger}$. [Right Time to Learn: Promoting Generalization via Bio-inspired Spacing Effect in Knowledge Distillation.](https://arxiv.org/abs/2502.06192) In International Conference on Machine Learning (**ICML**), 2025.
 
 * Zhiqi Kang, **Liyuan Wang**$^{\dagger}$, Xingxing Zhang, Karteek Alahari$^{\dagger}$. [Advancing Prompt-based Methods for Replay-Independent General Continual Learning.](https://openreview.net/forum?id=V6uxd8MEqw) In International Conference on Learning Representations (**ICLR**), 2025.
 
