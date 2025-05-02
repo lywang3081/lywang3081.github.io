@@ -98,7 +98,7 @@ Academic Services
 * Organizer: ICCV 6th CLVision Workshop (2025), ISNN Continual Learning Forum (2024)
 * Conference Area Chair: NeurIPS (2025)
 * Conference Reviewer: NeurIPS (2021, 2022, 2023, 2024), ICML (2024, 2025), ICLR (2022, 2023, 2024, 2025), CVPR (2022, 2023, 2024, 2025), ICCV (2023, 2025), ECCV (2022, 2024), AAAI (2025), IJCAI (2024), ACM MM (2022, 2023), CogSci (2024, 2025), CoLLAs (2023, 2024, 2025)
-* Journal Reviewer: PNAS, TPAMI, TAFFC, TIP, TNNLS, TCSVT, TETCI, TAI, Artificial Intelligence, Neural Networks, ACM Computing Surveys, IET Computer Vision, Applied Energy
+* Journal Reviewer: PNAS, TPAMI, TAFFC, TIP, TNNLS, TCSVT, TETCI, TAI, ACM Computing Surveys, Artificial Intelligence, Neural Networks, IET Computer Vision, Applied Energy
 
 
 
