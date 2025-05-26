@@ -52,11 +52,11 @@ Recent Publications
 
 * Kanglei Zhou, Zikai Hao, **Liyuan Wang**, Xiaohui Liang. [Adaptive Score Alignment Learning for Continual Perceptual Quality Assessment of 360-Degree Videos in Virtual Reality.]() IEEE Visual Reality - Transactions on Visualization and Computer Graphics (**VR-TVCG**), 2025.
 
+* Ziqi Yuan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Wenbo Ding, Xingxing Zhang, Jiachen Zhong, Jianyong Ai, Jianmin Li, Jun Zhu. [DualTeacher: Bridging Coexistence of Unlabelled Classes for Semi-supervised Incremental Object Detection.](https://arxiv.org/abs/2401.05362) Science China Information Science, 2025.
+
 * Kanglei Zhou, Ruizhi Cai, **Liyuan Wang**, Hubert P. H. Shum, Xiaohui Liang. [A Comprehensive Survey of Action Quality Assessment: Method and Benchmark.](https://arxiv.org/abs/2412.11149) arXiv:2412.11149, Under Review, 2025.
 
 * Gengwei Zhang$^{\ast}$, **Liyuan Wang**$^{\ast}$, Guoliang Kang, Ling Chen, Yunchao Wei. [SLCA++: Unleash the Power of Sequential Fine-tuning for Continual Learning with Pre-training.](https://arxiv.org/abs/2408.08295) arXiv:2408.08295, Under Review, 2024.
-
-* Ziqi Yuan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Wenbo Ding, Xingxing Zhang, Jiachen Zhong, Jianyong Ai, Jianmin Li, Jun Zhu. [DualTeacher: Bridging Coexistence of Unlabelled Classes for Semi-supervised Incremental Object Detection.](https://arxiv.org/abs/2401.05362) arXiv:2401.05362, Under Review, 2024.
 
 * Kanglei Zhou, **Liyuan Wang**, Xingxing Zhang, Hubert Shum, Frederick Li, Jianguo Li, Xiaohui Liang. [MAGR: Manifold-Aligned Graph Regularization for Continual Action Quality Assessment.](https://arxiv.org/abs/2403.04398) In European Conference on Computer Vision (**ECCV**), **Oral**, 2024.
 
