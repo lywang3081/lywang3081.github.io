@@ -18,7 +18,7 @@ My email address is changed to *wly19@tsinghua.org.cn* (and also *ly_wang94@126.
 
 Recent News
 ======
-* 2025/06  I was awarded the CAAI Qingyuan Scholar (5 AI researchers in total).
+* 2025/06  I was awarded the CAAI Qingyuan Scholar.
 * 2025/05  We are organizing the 6th CLVision Workshop in ICCV 2025.
 * 2025/05  One paper is accepted to ICML 2025.
 * 2025/04  One paper is accepted to IEEE TPAMI.
@@ -27,7 +27,7 @@ Recent News
 * 2025/01  One paper is accepted to IEEE VR-TVCG 2025.
 * 2024/09  I received the Excellent Conference Poster Award in CNS 2024.
 * 2024/07  One paper is accepted to ECCV 2024 (as an oral).
-* 2024/06  I was awarded the WAIC Rising Star (15 AI researchers in total).
+* 2024/06  I was awarded the WAIC Rising Star.
 * 2024/04  One paper is accepted to IJCAI 2024.
 * 2024/02  One paper is accepted to CVPR 2024.
 * 2024/02  Our continual learning survey is accepted to IEEE TPAMI.
