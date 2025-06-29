@@ -18,7 +18,7 @@ My email address is changed to *wly19@tsinghua.org.cn* (and also *ly_wang94@126.
 
 Recent News
 ======
-* 2025/06  I was awarded the CAAI Qingyuan Scholar.
+* 2025/06  I was awarded the CAAI Rising Scientist.
 * 2025/05  We are organizing the 6th CLVision Workshop in ICCV 2025.
 * 2025/05  One paper is accepted to ICML 2025.
 * 2025/04  One paper is accepted to IEEE TPAMI.
@@ -107,7 +107,7 @@ Academic Services
 
 Honors and Awards
 ======
-* Chinese Association for Artificial Intelligence (CAAI) Qingyuan Scholar, 2025.
+* Chinese Association for Artificial Intelligence (CAAI) Rising Scientist, 2025.
 * CNS-RWD Award for Excellent Conference Poster, 2024.
 * World AI Conference (WAIC) Rising Star, 2024.
 * Shuimu Tsinghua Scholar for Postdoc Researcher, 2023.
