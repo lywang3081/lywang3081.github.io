@@ -53,8 +53,6 @@ Recent Publications
 
 * Kanglei Zhou, Zikai Hao, **Liyuan Wang**, Xiaohui Liang. [Adaptive Score Alignment Learning for Continual Perceptual Quality Assessment of 360-Degree Videos in Virtual Reality.]() IEEE Visual Reality - Transactions on Visualization and Computer Graphics (**VR-TVCG**), 2025.
 
-* Ziqi Yuan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Wenbo Ding, Xingxing Zhang, Jiachen Zhong, Jianyong Ai, Jianmin Li, Jun Zhu. [DualTeacher: Bridging Coexistence of Unlabelled Classes for Semi-supervised Incremental Object Detection.](https://arxiv.org/abs/2401.05362) Science China Information Sciences (**SCIS**), 2025.
-
 * Qingyi Pan, **Liyuan Wang**$^{\dagger}$, Jingyi Zhang, Jun Zhu, Ning Chen$^{\dagger}$. [Trend Virtual Adversarial Training for Semi-Supervised Time Series Classification.]() Science China Information Sciences (**SCIS**), 2025.
 
 * Ziqi Yuan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Wenbo Ding, Xingxing Zhang, Jiachen Zhong, Jianyong Ai, Jianmin Li, Jun Zhu. [DualTeacher: Bridging Coexistence of Unlabelled Classes for Semi-supervised Incremental Object Detection.](https://arxiv.org/abs/2401.05362) Science China Information Sciences (**SCIS**), 2025.
