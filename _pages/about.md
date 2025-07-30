@@ -29,8 +29,7 @@ Recent News
 * 2024/04  One paper is accepted to IJCAI 2024.
 * 2024/02  One paper is accepted to CVPR 2024.
 * 2024/02  Our continual learning survey is accepted to IEEE TPAMI.
-* 2023/12  Our paper is featured as the cover article of NMI.
-* 2023/11  One paper is published in Nature Machine Intelligence.
+* 2023/12  One paper is published in Nature Machine Intelligence (as the cover).
 * 2023/10  One paper is accepted to the IMOL workshop in NeurIPS 2023.
 * 2023/09  Two papers are accepted to NeurIPS 2023 (with one spotlight).
 * 2023/07  I was awarded the Shuimu Tsinghua Scholar.
