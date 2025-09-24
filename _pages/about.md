@@ -44,11 +44,13 @@ Recent News
 Recent Publications
 ======
 
-* Shouwei Ruan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Caixin Kang, Qihui Zhu, Songming Liu, Xingxing Wei, Hang Su. [From Reactive to Cognitive: Brain-Inspired Spatial Intelligence for Embodied Agents.](https://arxiv.org/abs/2508.17198) arXiv:2508.17198, Under Review, 2025.
+* Zehua Chen$^{\ast}$, Yuyang Miao$^{\ast}$, **Liyuan Wang**$^{\ast\dagger}$, Luyun Fan, Danilo P. Mandic, Jun Zhu$^{\dagger}$. [Versatile Cardiovascular Signal Generation with a Unified Diffusion Transformer.](https://arxiv.org/abs/2505.22306) **Nature Machine Intelligence** (Accepted in Principle), 2025.
   
-* Zehua Chen$^{\ast}$, Yuyang Miao$^{\ast}$, **Liyuan Wang**$^{\ast\dagger}$, Luyun Fan, Danilo P. Mandic, Jun Zhu$^{\dagger}$. [Versatile Cardiovascular Signal Generation with a Unified Diffusion Transformer.](https://arxiv.org/abs/2505.22306) arXiv:2505.22306, Under Review, 2025.
+* Shouwei Ruan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Caixin Kang, Qihui Zhu, Songming Liu, Xingxing Wei, Hang Su. [From Reactive to Cognitive: Brain-Inspired Spatial Intelligence for Embodied Agents.](https://arxiv.org/abs/2508.17198) arXiv:2508.17198, Under Review, 2025.
 
 * **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Hang Su, Jun Zhu. [HiDe-PET: Continual Learning via Hierarchical Decomposition of Parameter-Efficient Tuning.](https://arxiv.org/abs/2407.05229) IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025.
+
+* Chang Li, Zehua Chen, **Liyuan Wang**, Jun Zhu. [Audio Super-Resolution with Latent Bridge Models.]() Advances in Neural Information Processing Systems (**NeurIPS**), 2025.
 
 * Guanglong Sun, Hongwei Yan, **Liyuan Wang**$^{\dagger}$, Qian Li, Bo Lei, Yi Zhong. [Right Time to Learn: Promoting Generalization via Bio-inspired Spacing Effect in Knowledge Distillation.](https://arxiv.org/abs/2502.06192) In International Conference on Machine Learning (**ICML**), 2025.
 
