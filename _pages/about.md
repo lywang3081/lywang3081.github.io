@@ -52,6 +52,8 @@ Recent Publications
 
 * Hongwei Yan, Guanglong Sun, Zhiqi Kang, Yi Zhong, **Liyuan Wang**$^\dagger$. [Domain Generalizable Continual Learning.](), Under Review, 2025.
 
+* **Liyuan Wang**$^\dagger$, **Qian Li**$^\dagger$. [Convergent Multi-Modular Architecture for Adaptive Learning in Drosophila and Artificial Intelligence.]() Under Review, 2025.
+
 * Chang Li, Zehua Chen, **Liyuan Wang**, Jun Zhu. [Audio Super-Resolution with Latent Bridge Models.]() Advances in Neural Information Processing Systems (**NeurIPS**), 2025.
 
 * Guanglong Sun, Hongwei Yan, **Liyuan Wang**$^{\dagger}$, Qian Li, Bo Lei, Yi Zhong. [Right Time to Learn: Promoting Generalization via Bio-inspired Spacing Effect in Knowledge Distillation.](https://arxiv.org/abs/2502.06192) In International Conference on Machine Learning (**ICML**), 2025.
