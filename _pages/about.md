@@ -50,9 +50,9 @@ Recent Publications
   
 * Shouwei Ruan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Caixin Kang, Qihui Zhu, Songming Liu, Xingxing Wei, Hang Su. [From Reactive to Cognitive: Brain-Inspired Spatial Intelligence for Embodied Agents.](https://arxiv.org/abs/2508.17198) arXiv:2508.17198, Under Review, 2025.
 
-* Kanglei Zhou, Qingyi Pan, Xingxing Zhang, Hubert PH Shum, Frederick WB Li, Xiaohui Liang, **Liyuan Wang**$^\dagger$. [Continual Action Quality Assessment via Adaptive Manifold-Aligned Graph Regularization.](https://arxiv.org/abs/2510.06842), arXiv:2510.06842, Under Review, 2025.
+* Kanglei Zhou, Qingyi Pan, Xingxing Zhang, Hubert PH Shum, Frederick WB Li, Xiaohui Liang, **Liyuan Wang**$^\dagger$. [Continual Action Quality Assessment via Adaptive Manifold-Aligned Graph Regularization.](https://arxiv.org/abs/2510.06842) arXiv:2510.06842, Under Review, 2025.
 
-* Hongwei Yan, Guanglong Sun, Zhiqi Kang, Yi Zhong, **Liyuan Wang**$^\dagger$. [Domain Generalizable Continual Learning.](), Under Review, 2025.
+* Hongwei Yan, Guanglong Sun, Zhiqi Kang, Yi Zhong, **Liyuan Wang**$^\dagger$. [Domain Generalizable Continual Learning.]() Under Review, 2025.
 
 * **Liyuan Wang**$^\dagger$, Qian Li$^\dagger$. [Convergent Multi-Modular Architecture for Adaptive Learning in Drosophila and Artificial Intelligence.]() Under Review, 2025.
 
@@ -68,7 +68,7 @@ Recent Publications
 
 * Ziqi Yuan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Wenbo Ding, Xingxing Zhang, Jiachen Zhong, Jianyong Ai, Jianmin Li, Jun Zhu. [DualTeacher: Bridging Coexistence of Unlabelled Classes for Semi-supervised Incremental Object Detection.](https://arxiv.org/abs/2401.05362) Science China Information Sciences (**SCIS**), 2025.
 
-* Kanglei Zhou, Zikai Hao, **Liyuan Wang**, Xiaohui Liang. [Adaptive Score Alignment Learning for Continual Perceptual Quality Assessment of 360-Degree Videos in Virtual Reality.]() IEEE Visual Reality - Transactions on Visualization and Computer Graphics (**VR-TVCG**), 2025.
+* Kanglei Zhou, Zikai Hao, **Liyuan Wang**, Xiaohui Liang. [Adaptive Score Alignment Learning for Continual Perceptual Quality Assessment of 360-Degree Videos in Virtual Reality.]() IEEE Transactions on Visualization and Computer Graphics (**TVCG**), 2025.
 
 * Kanglei Zhou, Ruizhi Cai, **Liyuan Wang**, Hubert P. H. Shum, Xiaohui Liang. [A Comprehensive Survey of Action Quality Assessment: Method and Benchmark.](https://arxiv.org/abs/2412.11149) arXiv:2412.11149, Under Review, 2025.
 
@@ -114,7 +114,7 @@ Academic Services
 * Organizer: ICCV 6th CLVision Workshop (2025), ISNN Continual Learning Forum (2024)
 * Conference Area Chair: NeurIPS (2025)
 * Conference Reviewer: NeurIPS (2021, 2022, 2023, 2024), ICML (2024, 2025), ICLR (2022, 2023, 2024, 2025), CVPR (2022, 2023, 2024, 2025), ICCV (2023, 2025), ECCV (2022, 2024), AAAI (2025), IJCAI (2024), ACM MM (2022, 2023), CogSci (2024, 2025), CoLLAs (2023, 2024, 2025)
-* Journal Reviewer: PNAS, TPAMI, IJCV, TAFFC, TIP, TNNLS, TCSVT, TETCI, TAI, ACM Computing Surveys, Artificial Intelligence, Neural Networks, Neurocomputing, IET Computer Vision, Applied Energy
+* Journal Reviewer: PNAS, TPAMI, IJCV, TAFFC, TIP, TNNLS, TCSVT, TETCI, TAI, SCIS, ACM Computing Surveys, Artificial Intelligence, Neural Networks, Neurocomputing
 
 
 
