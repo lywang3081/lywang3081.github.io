@@ -56,7 +56,7 @@ Recent Publications
 
 * Hongwei Yan, Guanglong Sun, Zhiqi Kang, Yi Zhong, **Liyuan Wang**$^\dagger$. [Domain Generalizable Continual Learning.]() Under Review, 2025.
 
-* Qinwen Yang, **Liyuan Wang**, Gillian Dobbie, Joerg Wicker. Continual Learning: A Systematic Literature Review. **Neural
+* Qinwen Yang, **Liyuan Wang**, Gillian Dobbie, Joerg Wicker. [Continual Learning: A Systematic Literature Review.]() **Neural
 Networks**, 2025.
 
 * Chang Li, Zehua Chen, **Liyuan Wang**, Jun Zhu. [Audio Super-Resolution with Latent Bridge Models.]() Advances in Neural Information Processing Systems (**NeurIPS**), 2025.
@@ -77,7 +77,7 @@ Networks**, 2025.
 
 * Gengwei Zhang$^{\ast}$, **Liyuan Wang**$^{\ast}$, Guoliang Kang, Ling Chen, Yunchao Wei. [SLCA++: Unleash the Power of Sequential Fine-tuning for Continual Learning with Pre-training.](https://arxiv.org/abs/2408.08295) arXiv:2408.08295, Under Review, 2024.
 
-* **Liyuan Wang**, Xingxing Zhang, Hang Su, Jun Zhu. [A Comprehensive Survey of Continual Learning: Theory, Method and Application.](https://arxiv.org/abs/2302.00487) IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), TPAMI Top-10 Popular Documents, ESI Highly Cited Paper, 2024.
+* **Liyuan Wang**, Xingxing Zhang, Hang Su, Jun Zhu. [A Comprehensive Survey of Continual Learning: Theory, Method and Application.](https://arxiv.org/abs/2302.00487) IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), Popular Documents, ESI Highly Cited Paper, 2024.
 
 * Kanglei Zhou, **Liyuan Wang**, Xingxing Zhang, Hubert Shum, Frederick Li, Jianguo Li, Xiaohui Liang. [MAGR: Manifold-Aligned Graph Regularization for Continual Action Quality Assessment.](https://arxiv.org/abs/2403.04398) In European Conference on Computer Vision (**ECCV**), **Oral**, 2024.
 
