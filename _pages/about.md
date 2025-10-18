@@ -15,6 +15,7 @@ My email address is changed to *wly19@tsinghua.org.cn* (and also *ly_wang94@126.
 
 Recent News
 ======
+* 2025/10  One paper is accepted to iScience.
 * 2025/09  One paper is accepted to NeurIPS.
 * 2025/08  Three papers are accepted to SCIS.
 * 2025/07  I was awarded the WAIC Youth Outstanding Paper Award.
