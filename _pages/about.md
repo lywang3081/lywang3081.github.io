@@ -57,7 +57,7 @@ Recent Publications
 
 * Hongwei Yan, Guanglong Sun, Zhiqi Kang, Yi Zhong, **Liyuan Wang**$^\dagger$. [Domain Generalizable Continual Learning.](http://arxiv.org/abs/2510.16914) arXiv:2510.16914, Under Review, 2025.
 
-* Qinwen Yang, **Liyuan Wang**, Gillian Dobbie, Joerg Wicker. [Continual Learning: A Systematic Literature Review.]() **Neural
+* Qinwen Yang, **Liyuan Wang**, Gillian Dobbie, Joerg Wicker. [Continual Learning: A Systematic Literature Review.](https://www.sciencedirect.com/science/article/pii/S0893608025011074) **Neural
 Networks**, 2025.
 
 * Chang Li, Zehua Chen, **Liyuan Wang**, Jun Zhu. [Audio Super-Resolution with Latent Bridge Models.]() Advances in Neural Information Processing Systems (**NeurIPS**), 2025.
