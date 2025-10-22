@@ -25,22 +25,17 @@ Recent News
 * 2025/04  One paper is accepted to IEEE TPAMI.
 * 2025/04  I will serve as an Area Chair at NeurIPS 2025.
 * 2025/01  One paper is accepted to ICLR 2025.
-* 2025/01  One paper is accepted to IEEE VR-TVCG 2025.
 * 2024/09  I received the Excellent Conference Poster Award in CNS 2024.
 * 2024/07  One paper is accepted to ECCV 2024 (as an oral).
 * 2024/06  I was awarded the WAIC Rising Star.
-* 2024/04  One paper is accepted to IJCAI 2024.
 * 2024/02  One paper is accepted to CVPR 2024.
 * 2024/02  Our continual learning survey is accepted to IEEE TPAMI.
 * 2023/12  One paper is published in Nature Machine Intelligence (as the cover).
-* 2023/10  One paper is accepted to the IMOL workshop in NeurIPS 2023.
 * 2023/09  Two papers are accepted to NeurIPS 2023 (with one spotlight).
 * 2023/07  I was awarded the Shuimu Tsinghua Scholar.
 * 2023/07  I received the Outstanding Poster Award in CCCN 2023.
 * 2023/07  One paper is accepted to ICCV 2023.
 * 2023/06  I received my PhD degree after four years of hard work.
-* 2023/02  Our continual learning survey is online in arXiv.
-
 
 Recent Publications
 ======
