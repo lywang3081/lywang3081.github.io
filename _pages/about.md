@@ -15,6 +15,7 @@ My email address is changed to *wly19@tsinghua.org.cn* (and also *ly_wang94@126.
 
 Recent News
 ======
+* 2025/10  One paper is accepted to Nature Machine Intelligence.
 * 2025/10  One paper is accepted to iScience.
 * 2025/09  One paper is accepted to NeurIPS.
 * 2025/08  Three papers are accepted to SCIS.
@@ -40,7 +41,7 @@ Recent News
 Recent Publications
 ======
 
-* Zehua Chen$^{\ast}$, Yuyang Miao$^{\ast}$, **Liyuan Wang**$^{\ast\dagger}$, Luyun Fan, Danilo P. Mandic, Jun Zhu$^{\dagger}$. [Versatile Cardiovascular Signal Generation with a Unified Diffusion Transformer.](https://arxiv.org/abs/2505.22306) **Nature Machine Intelligence**, Accepted in Principle, 2025.
+* Zehua Chen$^{\ast}$, Yuyang Miao$^{\ast}$, **Liyuan Wang**$^{\ast\dagger}$, Luyun Fan, Danilo P. Mandic, Jun Zhu$^{\dagger}$. [Versatile Cardiovascular Signal Generation with a Unified Diffusion Transformer.](https://arxiv.org/abs/2505.22306) **Nature Machine Intelligence**, 2025.
 
 * **Liyuan Wang**$^\dagger$, Qian Li$^\dagger$. [Convergent Multi-Modular Architecture for Adaptive Learning in Drosophila and Artificial Intelligence.](https://www.sciencedirect.com/science/article/pii/S2589004225020607) **iScience**, 2025.
 
