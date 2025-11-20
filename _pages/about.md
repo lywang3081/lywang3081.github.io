@@ -15,7 +15,7 @@ My email address is changed to *wly19@tsinghua.org.cn* (and also *ly_wang94@126.
 
 Recent News
 ======
-* 2025/10  I will serve as an Area Chair at ICML 2026.
+* 2025/11  I will serve as an Area Chair at ICML 2026.
 * 2025/10  One paper is accepted to Nature Machine Intelligence.
 * 2025/10  One paper is accepted to iScience.
 * 2025/09  One paper is accepted to NeurIPS.
