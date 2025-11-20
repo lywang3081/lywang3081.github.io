@@ -15,6 +15,7 @@ My email address is changed to *wly19@tsinghua.org.cn* (and also *ly_wang94@126.
 
 Recent News
 ======
+* 2025/10  I will serve as an Area Chair at ICML 2026.
 * 2025/10  One paper is accepted to Nature Machine Intelligence.
 * 2025/10  One paper is accepted to iScience.
 * 2025/09  One paper is accepted to NeurIPS.
@@ -111,8 +112,8 @@ Networks**, 2025.
     
 Academic Services
 ======
-* Organizer: ICCV 6th CLVision Workshop (2025), ISNN Continual Learning Forum (2024)
-* Conference Area Chair: NeurIPS (2025)
+* Organizer: CoLLAs (2026), ICCV 6th CLVision Workshop (2025), ISNN Continual Learning Forum (2024)
+* Conference Area Chair: NeurIPS (2025), ICML (2026)
 * Conference Reviewer: NeurIPS (2021, 2022, 2023, 2024), ICML (2024, 2025), ICLR (2022, 2023, 2024, 2025), CVPR (2022, 2023, 2024, 2025), ICCV (2023, 2025), ECCV (2022, 2024), AAAI (2025), IJCAI (2024), ACM MM (2022, 2023), CogSci (2024, 2025), CoLLAs (2023, 2024, 2025)
 * Journal Reviewer: PNAS, TPAMI, IJCV, TAFFC, TIP, TNNLS, TCSVT, TETCI, TAI, SCIS, ACM Computing Surveys, Artificial Intelligence, Neural Networks, Neurocomputing
 
