@@ -121,6 +121,7 @@ Academic Services
 
 Honors and Awards
 ======
+* Frontier Academic Achievements in Beijing, 2025.
 * World AI Conference (WAIC) Youth Outstanding Paper Award, 2025.
 * Chinese Association for Artificial Intelligence (CAAI) Rising Scientist, 2025.
 * CNS-RWD Award for Excellent Conference Poster, 2024.
