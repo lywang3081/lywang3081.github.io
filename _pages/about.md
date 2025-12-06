@@ -15,6 +15,7 @@ My email address is changed to *wly19@tsinghua.org.cn* (and also *ly_wang94@126.
 
 Recent News
 ======
+* 2025/11  Our CL survey (TPAMI'24) received the CFAA Award.
 * 2025/11  I will serve as an Area Chair at ICML 2026.
 * 2025/10  One paper is accepted to Nature Machine Intelligence.
 * 2025/10  One paper is accepted to iScience.
@@ -121,7 +122,7 @@ Academic Services
 
 Honors and Awards
 ======
-* Frontier Academic Achievements in Beijing, 2025.
+* Capital Frontier Academic Achievements (CFAA), 2025.
 * World AI Conference (WAIC) Youth Outstanding Paper Award, 2025.
 * Chinese Association for Artificial Intelligence (CAAI) Rising Scientist, 2025.
 * CNS-RWD Award for Excellent Conference Poster, 2024.
