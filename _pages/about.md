@@ -114,7 +114,7 @@ Networks**, 2025.
 Academic Services
 ======
 * Organizer: CoLLAs (2026), ICCV 6th CLVision Workshop (2025), ISNN Continual Learning Forum (2024)
-* Conference Area Chair: NeurIPS (2025), ICML (2026)
+* Conference Area Chair: NeurIPS (2025), ICLR (2026), ICML (2026)
 * Conference Reviewer: NeurIPS (2021, 2022, 2023, 2024), ICML (2024, 2025), ICLR (2022, 2023, 2024, 2025), CVPR (2022, 2023, 2024, 2025), ICCV (2023, 2025), ECCV (2022, 2024), AAAI (2025), IJCAI (2024), ACM MM (2022, 2023), CogSci (2024, 2025), CoLLAs (2023, 2024, 2025)
 * Journal Reviewer: PNAS, TPAMI, IJCV, TAFFC, TIP, TNNLS, TCSVT, TETCI, TAI, SCIS, ACM Computing Surveys, Artificial Intelligence, Neural Networks, Neurocomputing
 
