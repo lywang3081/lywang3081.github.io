@@ -43,7 +43,7 @@ Recent News
 Recent Publications
 ======
 
-* Guanglong Sun, Ning Huang, Hongwei Yan, **Liyuan Wang**$^{\ast}$, Jun Zhou, Qian Li, Bo Lei, Yi Zhong. [Spacing Effect Improves Generalization in Biological and Artificial Systems.](https://www.biorxiv.org/content/10.64898/2025.12.18.695340v1.full.pdf) bioRxiv/2025/695340, Under Review, 2025.
+* Guanglong Sun, Ning Huang, Hongwei Yan, **Liyuan Wang**$^\dagger$, Jun Zhou, Qian Li, Bo Lei, Yi Zhong. [Spacing Effect Improves Generalization in Biological and Artificial Systems.](https://www.biorxiv.org/content/10.64898/2025.12.18.695340v1.full.pdf) bioRxiv/2025/695340, Under Review, 2025.
 
 * Shouwei Ruan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Caixin Kang, Qihui Zhu, Songming Liu, Xingxing Wei, Hang Su. [From Reactive to Cognitive: Brain-Inspired Spatial Intelligence for Embodied Agents.](https://arxiv.org/abs/2508.17198) arXiv:2508.17198, Under Review, 2025.
 
