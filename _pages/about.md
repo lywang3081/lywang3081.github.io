@@ -60,19 +60,19 @@ Recent Publications
 * Qinwen Yang, **Liyuan Wang**, Gillian Dobbie, Joerg Wicker. [Continual Learning: A Systematic Literature Review.](https://www.sciencedirect.com/science/article/pii/S0893608025011074) **Neural
 Networks**, 2025.
 
-* Chang Li, Zehua Chen, **Liyuan Wang**, Jun Zhu. [Audio Super-Resolution with Latent Bridge Models.]() Advances in Neural Information Processing Systems (**NeurIPS**), 2025.
+* Chang Li, Zehua Chen, **Liyuan Wang**, Jun Zhu. [Audio Super-Resolution with Latent Bridge Models.](https://arxiv.org/abs/2509.17609) Advances in Neural Information Processing Systems (**NeurIPS**), 2025.
 
 * Guanglong Sun, Hongwei Yan, **Liyuan Wang**$^{\dagger}$, Qian Li, Bo Lei, Yi Zhong. [Right Time to Learn: Promoting Generalization via Bio-inspired Spacing Effect in Knowledge Distillation.](https://arxiv.org/abs/2502.06192) In International Conference on Machine Learning (**ICML**), 2025.
 
 * Zhiqi Kang, **Liyuan Wang**$^{\dagger}$, Xingxing Zhang, Karteek Alahari$^{\dagger}$. [Advancing Prompt-based Methods for Replay-Independent General Continual Learning.](https://openreview.net/forum?id=V6uxd8MEqw) In International Conference on Learning Representations (**ICLR**), 2025.
 
-* Qingyi Pan, **Liyuan Wang**$^{\dagger}$, Jingyi Zhang, Jun Zhu$^{\dagger}$. [LUNCH: Adaptive Task Balancing for Online Continual Learning via Hyperparameter Uncertainty.]() Science China Information Sciences (**SCIS**), 2025.
+* Qingyi Pan, **Liyuan Wang**$^{\dagger}$, Jingyi Zhang, Jun Zhu$^{\dagger}$. [LUNCH: Adaptive Task Balancing for Online Continual Learning via Hyperparameter Uncertainty.](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4570-7) Science China Information Sciences (**SCIS**), 2025.
 
-* Qingyi Pan, **Liyuan Wang**$^{\dagger}$, Jingyi Zhang, Jun Zhu, Ning Chen$^{\dagger}$. [Trend Virtual Adversarial Training for Semi-Supervised Time Series Classification.]() Science China Information Sciences (**SCIS**), 2025.
+* Qingyi Pan, **Liyuan Wang**$^{\dagger}$, Jingyi Zhang, Jun Zhu, Ning Chen$^{\dagger}$. [Trend Virtual Adversarial Training for Semi-Supervised Time Series Classification.](https://cdn.sciengine.com/doi/10.1007/s11432-025-4559-7) Science China Information Sciences (**SCIS**), 2025.
 
 * Ziqi Yuan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Wenbo Ding, Xingxing Zhang, Jiachen Zhong, Jianyong Ai, Jianmin Li, Jun Zhu. [DualTeacher: Bridging Coexistence of Unlabelled Classes for Semi-supervised Incremental Object Detection.](https://arxiv.org/abs/2401.05362) Science China Information Sciences (**SCIS**), 2025.
 
-* Kanglei Zhou, Zikai Hao, **Liyuan Wang**, Xiaohui Liang. [Adaptive Score Alignment Learning for Continual Perceptual Quality Assessment of 360-Degree Videos in Virtual Reality.]() IEEE Transactions on Visualization and Computer Graphics (**TVCG**), 2025.
+* Kanglei Zhou, Zikai Hao, **Liyuan Wang**, Xiaohui Liang. [Adaptive Score Alignment Learning for Continual Perceptual Quality Assessment of 360-Degree Videos in Virtual Reality.](https://arxiv.org/abs/2502.19644) IEEE Transactions on Visualization and Computer Graphics (**TVCG**), 2025.
 
 * Kanglei Zhou, Ruizhi Cai, **Liyuan Wang**, Hubert P. H. Shum, Xiaohui Liang. [A Comprehensive Survey of Action Quality Assessment: Method and Benchmark.](https://arxiv.org/abs/2412.11149) arXiv:2412.11149, Under Review, 2025.
 
