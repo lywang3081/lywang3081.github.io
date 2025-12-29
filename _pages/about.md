@@ -51,7 +51,7 @@ Recent Publications
 
 * Hongwei Yan, Guanglong Sun, Zhiqi Kang, Yi Zhong, **Liyuan Wang**$^\dagger$. [Domain Generalizable Continual Learning.](http://arxiv.org/abs/2510.16914) arXiv:2510.16914, Under Review, 2025.
   
-* Zehua Chen$^{\ast}$, Yuyang Miao$^{\ast}$, **Liyuan Wang**$^{\ast\dagger}$, Luyun Fan, Danilo P. Mandic, Jun Zhu$^{\dagger}$. [Versatile Cardiovascular Signal Generation with a Unified Diffusion Transformer.](https://arxiv.org/abs/2505.22306) Accepted to **Nature Machine Intelligence**, 2025.
+* Zehua Chen$^{\ast}$, Yuyang Miao$^{\ast}$, **Liyuan Wang**$^{\ast\dagger}$, Luyun Fan, Danilo P. Mandic, Jun Zhu$^{\dagger}$. [Versatile Cardiovascular Signal Generation with a Unified Diffusion Transformer.](https://www.nature.com/articles/s42256-025-01147-y) Accepted to **Nature Machine Intelligence**, 2025.
 
 * **Liyuan Wang**$^\dagger$, Qian Li$^\dagger$. [Convergent Multi-Modular Architecture for Adaptive Learning in Drosophila and Artificial Intelligence.](https://www.sciencedirect.com/science/article/pii/S2589004225020607) **iScience**, 2025.
 
