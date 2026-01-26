@@ -15,6 +15,7 @@ My email address is changed to *wly19@tsinghua.org.cn* (and also *ly_wang94@126.
 
 Recent News
 ======
+* 2026/01  Two papers are accepted to ICLR 2026.
 * 2025/11  We received the CFAA Award for our continual learning survey.
 * 2025/11  I will serve as an Area Chair at ICML 2026.
 * 2025/10  One paper is accepted to Nature Machine Intelligence.
@@ -43,13 +44,17 @@ Recent News
 Recent Publications
 ======
 
-* Guanglong Sun, Ning Huang, Hongwei Yan, **Liyuan Wang**$^\dagger$, Jun Zhou, Qian Li, Bo Lei, Yi Zhong. [Spacing Effect Improves Generalization in Biological and Artificial Systems.](https://www.biorxiv.org/content/10.64898/2025.12.18.695340v1.full.pdf) bioRxiv 2025.12.18.695340, Under Review, 2025.
+* Guanglong Sun, Ning Huang, Hongwei Yan, **Liyuan Wang**$^\dagger$, Jun Zhou, Qian Li, Bo Lei, Yi Zhong. [Spacing Effect Improves Generalization in Biological and Artificial Systems.](https://www.biorxiv.org/content/10.64898/2025.12.18.695340v1.full.pdf) bioRxiv 2025.12.18.695340, Under Review, 2026.
 
-* Shouwei Ruan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Caixin Kang, Qihui Zhu, Songming Liu, Xingxing Wei, Hang Su. [From Reactive to Cognitive: Brain-Inspired Spatial Intelligence for Embodied Agents.](https://arxiv.org/abs/2508.17198) arXiv:2508.17198, Under Review, 2025.
+* Shouwei Ruan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Caixin Kang, Qihui Zhu, Songming Liu, Xingxing Wei, Hang Su. [From Reactive to Cognitive: Brain-Inspired Spatial Intelligence for Embodied Agents.](https://arxiv.org/abs/2508.17198) arXiv:2508.17198, Under Review, 2026.
 
-* Kanglei Zhou, Qingyi Pan, Xingxing Zhang, Hubert PH Shum, Frederick WB Li, Xiaohui Liang, **Liyuan Wang**$^\dagger$. [Continual Action Quality Assessment via Adaptive Manifold-Aligned Graph Regularization.](https://arxiv.org/abs/2510.06842) arXiv:2510.06842, Under Review, 2025.
+* Kanglei Zhou, Qingyi Pan, Xingxing Zhang, Hubert PH Shum, Frederick WB Li, Xiaohui Liang, **Liyuan Wang**$^\dagger$. [Continual Action Quality Assessment via Adaptive Manifold-Aligned Graph Regularization.](https://arxiv.org/abs/2510.06842) arXiv:2510.06842, Under Review, 2026.
 
-* Hongwei Yan, Guanglong Sun, Zhiqi Kang, Yi Zhong, **Liyuan Wang**$^\dagger$. [Domain Generalizable Continual Learning.](http://arxiv.org/abs/2510.16914) arXiv:2510.16914, Under Review, 2025.
+* Hongwei Yan, Guanglong Sun, Zhiqi Kang, Yi Zhong, **Liyuan Wang**$^\dagger$. [Domain Generalizable Continual Learning.](http://arxiv.org/abs/2510.16914) arXiv:2510.16914, Under Review, 2026.
+
+* Chang Li, Kanglei Zhou, **Liyuan Wang**$^{\ast\dagger}$. [PACE: Pretrained Audio Continual Learning.](https://openreview.net/pdf?id=k5PgSlNc4E) In International Conference on Learning Representations (**ICLR**), 2026.
+
+* Hongwei Yan, Guanglong Sun, Kanglei Zhou, Qian Li, **Liyuan Wang**$^{\ast\dagger}$, Yi Zhong$^{\ast\dagger}$. [FlyPrompt: Brain-Inspired Random-Expanded Routing with Temporal-Ensemble Experts for General Continual Learning.](https://openreview.net/pdf?id=8pi1rP71qv) In International Conference on Learning Representations (**ICLR**), 2026.
   
 * Zehua Chen$^{\ast}$, Yuyang Miao$^{\ast}$, **Liyuan Wang**$^{\ast\dagger}$, Luyun Fan, Danilo P. Mandic, Jun Zhu$^{\dagger}$. [Versatile Cardiovascular Signal Generation with a Unified Diffusion Transformer.](https://www.nature.com/articles/s42256-025-01147-y) **Nature Machine Intelligence**, 2025.
 
