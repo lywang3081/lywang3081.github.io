@@ -52,9 +52,9 @@ Recent Publications
 
 * Hongwei Yan, Guanglong Sun, Zhiqi Kang, Yi Zhong, **Liyuan Wang**$^\dagger$. [Domain Generalizable Continual Learning.](http://arxiv.org/abs/2510.16914) arXiv:2510.16914, Under Review, 2026.
 
-* Chang Li, Kanglei Zhou, **Liyuan Wang**$^{\ast\dagger}$. [PACE: Pretrained Audio Continual Learning.](https://openreview.net/pdf?id=k5PgSlNc4E) In International Conference on Learning Representations (**ICLR**), 2026.
+* Chang Li, Kanglei Zhou, **Liyuan Wang**$^{\dagger}$. [PACE: Pretrained Audio Continual Learning.](https://openreview.net/pdf?id=k5PgSlNc4E) In International Conference on Learning Representations (**ICLR**), 2026.
 
-* Hongwei Yan, Guanglong Sun, Kanglei Zhou, Qian Li, **Liyuan Wang**$^{\ast\dagger}$, Yi Zhong$^{\ast\dagger}$. [FlyPrompt: Brain-Inspired Random-Expanded Routing with Temporal-Ensemble Experts for General Continual Learning.](https://openreview.net/pdf?id=8pi1rP71qv) In International Conference on Learning Representations (**ICLR**), 2026.
+* Hongwei Yan, Guanglong Sun, Kanglei Zhou, Qian Li, **Liyuan Wang**$^{\dagger}$, Yi Zhong$^{\dagger}$. [FlyPrompt: Brain-Inspired Random-Expanded Routing with Temporal-Ensemble Experts for General Continual Learning.](https://openreview.net/pdf?id=8pi1rP71qv) In International Conference on Learning Representations (**ICLR**), 2026.
   
 * Zehua Chen$^{\ast}$, Yuyang Miao$^{\ast}$, **Liyuan Wang**$^{\ast\dagger}$, Luyun Fan, Danilo P. Mandic, Jun Zhu$^{\dagger}$. [Versatile Cardiovascular Signal Generation with a Unified Diffusion Transformer.](https://www.nature.com/articles/s42256-025-01147-y) **Nature Machine Intelligence**, 2025.
 
