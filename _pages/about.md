@@ -41,7 +41,7 @@ Recent News
 * 2023/07  One paper is accepted to ICCV 2023.
 * 2023/06  I received my PhD degree after four years of hard work.
 
-Recent Publications
+Selected Publications and Preprints
 ======
 
 * Guanglong Sun, Ning Huang, Hongwei Yan, **Liyuan Wang**$^\dagger$, Jun Zhou, Qian Li, Bo Lei, Yi Zhong. [Spacing Effect Improves Generalization in Biological and Artificial Systems.](https://www.biorxiv.org/content/10.64898/2025.12.18.695340v1.full.pdf) bioRxiv 2025.12.18.695340, Under Review, 2026.
@@ -62,32 +62,13 @@ Recent Publications
 
 * **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Hang Su, Jun Zhu. [HiDe-PET: Continual Learning via Hierarchical Decomposition of Parameter-Efficient Tuning.](https://arxiv.org/abs/2407.05229) IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025.
 
-* Qinwen Yang, **Liyuan Wang**, Gillian Dobbie, Joerg Wicker. [Continual Learning: A Systematic Literature Review.](https://www.sciencedirect.com/science/article/pii/S0893608025011074) **Neural
-Networks**, 2025.
-
-* Chang Li, Zehua Chen, **Liyuan Wang**, Jun Zhu. [Audio Super-Resolution with Latent Bridge Models.](https://arxiv.org/abs/2509.17609) Advances in Neural Information Processing Systems (**NeurIPS**), 2025.
-
 * Guanglong Sun, Hongwei Yan, **Liyuan Wang**$^{\dagger}$, Qian Li, Bo Lei, Yi Zhong. [Right Time to Learn: Promoting Generalization via Bio-inspired Spacing Effect in Knowledge Distillation.](https://arxiv.org/abs/2502.06192) In International Conference on Machine Learning (**ICML**), 2025.
 
 * Zhiqi Kang, **Liyuan Wang**$^{\dagger}$, Xingxing Zhang, Karteek Alahari$^{\dagger}$. [Advancing Prompt-based Methods for Replay-Independent General Continual Learning.](https://openreview.net/forum?id=V6uxd8MEqw) In International Conference on Learning Representations (**ICLR**), 2025.
 
-* Qingyi Pan, **Liyuan Wang**$^{\dagger}$, Jingyi Zhang, Jun Zhu$^{\dagger}$. [LUNCH: Adaptive Task Balancing for Online Continual Learning via Hyperparameter Uncertainty.](https://www.sciengine.com/SCIS/doi/10.1007/s11432-024-4570-7) Science China Information Sciences (**SCIS**), 2025.
-
-* Qingyi Pan, **Liyuan Wang**$^{\dagger}$, Jingyi Zhang, Jun Zhu, Ning Chen$^{\dagger}$. [Trend Virtual Adversarial Training for Semi-Supervised Time Series Classification.](https://cdn.sciengine.com/doi/10.1007/s11432-025-4559-7) Science China Information Sciences (**SCIS**), 2025.
-
-* Ziqi Yuan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Wenbo Ding, Xingxing Zhang, Jiachen Zhong, Jianyong Ai, Jianmin Li, Jun Zhu. [DualTeacher: Bridging Coexistence of Unlabelled Classes for Semi-supervised Incremental Object Detection.](https://arxiv.org/abs/2401.05362) Science China Information Sciences (**SCIS**), 2025.
-
-* Kanglei Zhou, Zikai Hao, **Liyuan Wang**, Xiaohui Liang. [Adaptive Score Alignment Learning for Continual Perceptual Quality Assessment of 360-Degree Videos in Virtual Reality.](https://arxiv.org/abs/2502.19644) IEEE Transactions on Visualization and Computer Graphics (**TVCG**), 2025.
-
-* Kanglei Zhou, Ruizhi Cai, **Liyuan Wang**, Hubert P. H. Shum, Xiaohui Liang. [A Comprehensive Survey of Action Quality Assessment: Method and Benchmark.](https://arxiv.org/abs/2412.11149) arXiv:2412.11149, Under Review, 2025.
-
-* Gengwei Zhang$^{\ast}$, **Liyuan Wang**$^{\ast}$, Guoliang Kang, Ling Chen, Yunchao Wei. [SLCA++: Unleash the Power of Sequential Fine-tuning for Continual Learning with Pre-training.](https://arxiv.org/abs/2408.08295) arXiv:2408.08295, Under Review, 2024.
-
 * **Liyuan Wang**, Xingxing Zhang, Hang Su, Jun Zhu. [A Comprehensive Survey of Continual Learning: Theory, Method and Application.](https://arxiv.org/abs/2302.00487) IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), Popular Documents, ESI Highly Cited Paper, 2024.
 
 * Kanglei Zhou, **Liyuan Wang**, Xingxing Zhang, Hubert Shum, Frederick Li, Jianguo Li, Xiaohui Liang. [MAGR: Manifold-Aligned Graph Regularization for Continual Action Quality Assessment.](https://arxiv.org/abs/2403.04398) In European Conference on Computer Vision (**ECCV**), **Oral**, 2024.
-
-* Kanglei Zhou, Junlin Li, Ruizhi Cai, **Liyuan Wang**, Xingxing Zhang, Xiaohui Liang. [CoFInAl: Enhancing Action Quality Assessment with Coarse-to-Fine Instruction Alignment.](https://arxiv.org/abs/2404.13999) In International Joint Conference on Artificial Intelligence (**IJCAI**), 2024.
 
 * Hongwei Yan, **Liyuan Wang**$^{\dagger}$, Kaisheng Ma$^{\dagger}$, Yi Zhong$^{\dagger}$. [Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation.](https://arxiv.org/abs/2404.00417) In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.
   
@@ -97,16 +78,12 @@ Networks**, 2025.
 
 * Yilin Lyu$^{\ast}$, **Liyuan Wang**$^{\ast}$, Xingxing Zhang, Zicheng Sun, Hang Su, Jun Zhu, Liping Jing. [Overcoming Recency Bias of Normalization Statistics in Continual Learning: Balance and Adaptation.](https://arxiv.org/abs/2310.08855) In Neural Information Processing Systems (**NeurIPS**), 2023.
 
-* **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Hang Su, Jun Zhu. [Towards a General Framework for Continual Learning with Pre-training.]() In NeurIPS Intrinsically Motivated Open-ended Learning (IMOL) Workshop (**NeurIPSW**), 2023.
-
 * Gengwei Zhang$^{\ast}$, **Liyuan Wang**$^{\ast}$, Guoliang Kang, Ling Chen, Yunchao Wei. [SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model.](https://arxiv.org/abs/2303.05118) In International Conference on Computer Vision (**ICCV**), 2023.
 
 * Jianjian Zhao, Xuchen Zhang, Bohan Zhao, **Liyuan Wang**, Wantong Hu, Yi Zhong, Qian Li. [Genetic Dissection of Mutual Interference between Two Consecutively Learned Tasks in Drosophila.](https://www.biorxiv.org/content/10.1101/2022.10.18.512721.abstract) **eLife**, 2023, 12:e83516.
 
 * **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Qian Li, Jun Zhu, Yi Zhong. [CoSCL: Cooperation of Small Continual Learners is Stronger than a Big One.](https://arxiv.org/abs/2207.06543) In European Conference on Computer Vision (**ECCV**), 2022.
- 
-* Xingxing Zhang, Zhizhe Liu, Weikai Yang, **Liyuan Wang**, Jun Zhu. [The More, The Better? Active Silencing of Non-Positive Transfer for Efficient Multi-Domain Few-Shot Classification.](https://repo.vicayang.cc/The_More_The_Better/The_More_The_Better.pdf) In ACM Multimedia (**MM**), 2022.
-  
+
 * **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Kuo Yang, Longhui Yu, Chongxuan Li, Lanqing Hong, Shifeng Zhang, Zhenguo Li, Yi Zhong, Jun Zhu. [Memory Replay with Data Compression for Continual Learning.](https://openreview.net/pdf?id=a7H7OucbWaU) In International Conference on Learning Representations (**ICLR**), 2022.
 
 * **Liyuan Wang**, Mingtian Zhang, Zhongfan Jia, Qian Li, Chenglong Bao, Kaisheng Ma, Jun Zhu, Yi Zhong. [AFEC: Active Forgetting of Negative Transfer in Continual Learning.](https://papers.nips.cc/paper/2021/hash/bc6dc48b743dc5d013b1abaebd2faed2-Abstract.html) In Neural Information Processing Systems (**NeurIPS**), 2021.
@@ -117,7 +94,7 @@ Networks**, 2025.
 
 * **Liyuan Wang**, Qian Li, Yi Zhong, Jun Zhu. [Few-shot Continual Learning: a Brain-inspired Approach.](https://arxiv.org/abs/2104.09034) arXiv:2104.09034, 2021.
     
-    
+
 Academic Services
 ======
 * Organizer: CoLLAs (2026), ICCV 6th CLVision Workshop (2025), ISNN Continual Learning Forum (2024)
