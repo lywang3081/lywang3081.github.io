@@ -53,6 +53,10 @@ Selected Publications and Preprints
 
 * Hongwei Yan, Guanglong Sun, Zhiqi Kang, Yi Zhong, **Liyuan Wang**$^\dagger$. [Domain Generalizable Continual Learning.](http://arxiv.org/abs/2510.16914) arXiv:2510.16914, Under Review, 2026.
 
+* Kanglei Zhou, Chang Li, **Liyuan Wang**$^{\dagger}$. [Continual Modality Adaptation for Multi-Modal Action Quality Assessment.]() In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
+
+* Yuwen Tao, Kanglei Zhou, Chang Li, **Liyuan Wang**. [Geometry-aware Cross-modal Graph Alignment for Referring Segmentation in 3D Gaussian Splatting.]() In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
+
 * Chang Li, Kanglei Zhou, **Liyuan Wang**$^{\dagger}$. [PACE: Pretrained Audio Continual Learning.](https://openreview.net/pdf?id=k5PgSlNc4E) In International Conference on Learning Representations (**ICLR**), 2026.
 
 * Hongwei Yan, Guanglong Sun, Kanglei Zhou, Qian Li, **Liyuan Wang**$^{\dagger}$, Yi Zhong$^{\dagger}$. [FlyPrompt: Brain-Inspired Random-Expanded Routing with Temporal-Ensemble Experts for General Continual Learning.](https://openreview.net/pdf?id=8pi1rP71qv) In International Conference on Learning Representations (**ICLR**), 2026.
