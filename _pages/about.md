@@ -15,6 +15,7 @@ My email address is changed to *wly19@tsinghua.org.cn* (and also *ly_wang94@126.
 
 Recent News
 ======
+* 2026/02  Two papers are accepted to CVPR 2026.
 * 2026/01  Two papers are accepted to ICLR 2026.
 * 2025/11  We received the CFAA Award for our continual learning survey.
 * 2025/11  I will serve as an Area Chair at ICML 2026.
