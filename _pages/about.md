@@ -53,7 +53,7 @@ Selected Publications and Preprints
 
 * Hongwei Yan, Guanglong Sun, Zhiqi Kang, Yi Zhong, **Liyuan Wang**$^\dagger$. [Domain Generalizable Continual Learning.](http://arxiv.org/abs/2510.16914) arXiv:2510.16914, Under Review, 2026.
 
-* Kanglei Zhou, Chang Li, **Liyuan Wang**$^{\dagger}$. [Continual Modality Adaptation for Multi-Modal Action Quality Assessment.]() In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
+* Kanglei Zhou, Chang Li, **Liyuan Wang**$^{\dagger}$. [BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment.]() In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
 
 * Yuwen Tao, Kanglei Zhou, Chang Li, **Liyuan Wang**. [Geometry-aware Cross-modal Graph Alignment for Referring Segmentation in 3D Gaussian Splatting.]() In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
 
