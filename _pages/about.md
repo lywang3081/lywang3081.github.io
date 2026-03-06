@@ -24,7 +24,7 @@ Recent News
 * 2025/10  One paper is accepted to iScience.
 * 2025/09  One paper is accepted to NeurIPS.
 * 2025/08  Three papers are accepted to SCIS.
-* 2025/07  I was awarded the WAIC Youth Outstanding Paper Award.
+* 2025/07  I received the WAIC Youth Outstanding Paper Award.
 * 2025/06  I was awarded the CAAI Rising Scientist.
 * 2025/05  We are organizing the 6th CLVision Workshop in ICCV 2025.
 * 2025/05  One paper is accepted to ICML 2025.
