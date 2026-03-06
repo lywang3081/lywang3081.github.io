@@ -11,7 +11,7 @@ I am currently an Assistant Professor at the Department of Psychological and Cog
 
 ![my_research_eng_](https://github.com/lywang3081/lywang3081.github.io/assets/53937203/5a65f61f-29ce-4c9a-8cd8-a0b426715068)
 
-My email address is changed to *wly19@tsinghua.org.cn* (and also *ly_wang94@126.com*). 
+My email address is changed to *liyuanwang@tsinghua.edu.cn* and *wly19@tsinghua.org.cn*. 
 
 Recent News
 ======
