@@ -95,7 +95,7 @@ Selected Publications and Preprints
 
 Academic Services
 ======
-* Action Editor: TMLR
+* Action Editor: TMLR (2026-)
 * Organizer: CoLLAs (2026), ICCV 6th CLVision Workshop (2025), ISNN Continual Learning Forum (2024)
 * Conference Area Chair: NeurIPS (2025), ICLR (2026), ICML (2026)
 * Conference Reviewer: NeurIPS (2021, 2022, 2023, 2024), ICML (2024, 2025), ICLR (2022, 2023, 2024, 2025), CVPR (2022, 2023, 2024, 2025), ICCV (2023, 2025), ECCV (2022, 2024), AAAI (2025), IJCAI (2024), ACM MM (2022, 2023), CogSci (2024, 2025), CoLLAs (2023, 2024, 2025)
