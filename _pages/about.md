@@ -18,7 +18,7 @@ Recent News
 * 2026/03  I will serve as an Action Editor for TMLR.
 * 2026/02  Two papers are accepted to CVPR 2026.
 * 2026/01  Two papers are accepted to ICLR 2026.
-* 2025/11  We received the CFAA Award for our continual learning survey.
+* 2025/11  I received the CFAA Award for our continual learning survey.
 * 2025/11  I will serve as an Area Chair at ICML 2026.
 * 2025/10  One paper is accepted to Nature Machine Intelligence.
 * 2025/10  One paper is accepted to iScience.
