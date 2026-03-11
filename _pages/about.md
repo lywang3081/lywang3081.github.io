@@ -21,19 +21,14 @@ Recent News
 * 2025/11  I received the CFAA Award for our continual learning survey.
 * 2025/11  I will serve as an Area Chair at ICML 2026.
 * 2025/10  One paper is accepted to Nature Machine Intelligence.
-* 2025/10  One paper is accepted to iScience.
-* 2025/09  One paper is accepted to NeurIPS.
-* 2025/08  Three papers are accepted to SCIS.
 * 2025/07  I received the WAIC Youth Outstanding Paper Award.
 * 2025/06  I was awarded the CAAI Rising Scientist.
 * 2025/05  We are organizing the 6th CLVision Workshop in ICCV 2025.
-* 2025/05  One paper is accepted to ICML 2025.
 * 2025/04  One paper is accepted to IEEE TPAMI.
 * 2025/04  I will serve as an Area Chair at NeurIPS 2025.
 * 2024/09  I received the Excellent Conference Poster Award in CNS 2024.
 * 2024/06  I was awarded the WAIC Rising Star.
 * 2023/12  One paper is published in Nature Machine Intelligence (as the cover).
-* 2023/09  Two papers are accepted to NeurIPS 2023 (with one spotlight).
 
 Selected Publications and Preprints
 ======
