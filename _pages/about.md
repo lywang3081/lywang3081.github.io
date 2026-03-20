@@ -39,7 +39,7 @@ Selected Publications and Preprints
 
 * Hongwei Yan, Guanglong Sun, Zhiqi Kang, Yi Zhong, **Liyuan Wang**$^\dagger$. [Domain Generalizable Continual Learning.](http://arxiv.org/abs/2510.16914) arXiv:2510.16914, Under Review, 2026.
 
-* Guanglong Sun, Ning Huang, Hongwei Yan, Jun Zhou, Qian Li, Bo Lei, Yi Zhong, **Liyuan Wang**$^\dagger$. [Spacing Effect Improves Generalization in Biological and Artificial Systems.]() bioRxiv 2025.12.18.695340, Pre-accepted in **Patterns**, 2026.
+* Guanglong Sun, Ning Huang, Hongwei Yan, Jun Zhou, Qian Li, Bo Lei, Yi Zhong, **Liyuan Wang**$^\dagger$. [Spacing Effect Improves Generalization in Biological and Artificial Systems.]() bioRxiv 2025.12.18.695340, Pre-accepted to **Patterns**, 2026.
 
 * Kanglei Zhou, Chang Li, **Liyuan Wang**$^{\dagger}$. [BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment.]() In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
 
