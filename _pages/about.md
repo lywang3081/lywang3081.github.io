@@ -15,7 +15,6 @@ My email address is changed to *liyuanwang@tsinghua.edu.cn* and *wly19@tsinghua.
 
 Recent News
 ======
-* 2026/03  I will serve as an Area Chair at NeurIPS 2026.
 * 2026/03  I will serve as an Action Editor for TMLR.
 * 2026/02  Two papers are accepted to CVPR 2026.
 * 2026/01  Two papers are accepted to ICLR 2026.
