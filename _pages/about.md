@@ -41,7 +41,7 @@ Selected Publications and Preprints
 
 * Guanglong Sun, Ning Huang, Hongwei Yan, Jun Zhou, Qian Li, Bo Lei, Yi Zhong, **Liyuan Wang**$^\dagger$. [Spacing Effect Improves Generalization in Biological and Artificial Systems.](https://www.biorxiv.org/content/10.64898/2025.12.18.695340v2.full.pdf) bioRxiv 2025.12.18.695340, Pre-accepted to **Patterns**, 2026.
 
-* Kanglei Zhou, Chang Li, **Liyuan Wang**$^{\dagger}$. [BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment.]() In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
+* Kanglei Zhou, Chang Li, **Liyuan Wang**$^{\dagger}$. [BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment.](https://arxiv.org/abs/2602.19170) In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
 
 * Yuwen Tao, Kanglei Zhou, Chang Li, **Liyuan Wang**. [Geometry-aware Cross-modal Graph Alignment for Referring Segmentation in 3D Gaussian Splatting.]() In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
 
