@@ -15,6 +15,7 @@ My email address is changed to *liyuanwang@tsinghua.edu.cn* and *wly19@tsinghua.
 
 Recent News
 ======
+* 2026/04  One paper is accepted to Patterns.
 * 2026/03  I will serve as an Action Editor for TMLR.
 * 2026/02  Two papers are accepted to CVPR 2026.
 * 2026/01  Two papers are accepted to ICLR 2026.
@@ -39,7 +40,7 @@ Selected Publications and Preprints
 
 * Hongwei Yan, Guanglong Sun, Zhiqi Kang, Yi Zhong, **Liyuan Wang**$^\dagger$. [Domain Generalizable Continual Learning.](http://arxiv.org/abs/2510.16914) arXiv:2510.16914, Under Review, 2026.
 
-* Guanglong Sun, Ning Huang, Hongwei Yan, Jun Zhou, Qian Li, Bo Lei, Yi Zhong, **Liyuan Wang**$^\dagger$. [Spacing Effect Improves Generalization in Biological and Artificial Systems.](https://www.biorxiv.org/content/10.64898/2025.12.18.695340v2.full.pdf) bioRxiv 2025.12.18.695340, Pre-accepted to **Patterns**, 2026.
+* Guanglong Sun, Ning Huang, Hongwei Yan, Jun Zhou, Qian Li, Bo Lei, Yi Zhong, **Liyuan Wang**$^\dagger$. [Spacing Effect Improves Generalization in Biological and Artificial Systems.](https://www.biorxiv.org/content/10.64898/2025.12.18.695340v2.full.pdf) Accepted to **Patterns**, 2026.
 
 * Kanglei Zhou, Chang Li, **Liyuan Wang**$^{\dagger}$. [BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment.](https://arxiv.org/abs/2602.19170) In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
 
