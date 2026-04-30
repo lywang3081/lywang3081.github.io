@@ -15,6 +15,7 @@ My email address is changed to *liyuanwang@tsinghua.edu.cn* and *wly19@tsinghua.
 
 Recent News
 ======
+* 2026/05  Three papers are accepted to ICML.
 * 2026/04  One paper is accepted to Patterns.
 * 2026/03  I will serve as an Action Editor for TMLR.
 * 2026/02  Two papers are accepted to CVPR 2026.
@@ -41,6 +42,12 @@ Selected Publications and Preprints
 * Shouwei Ruan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Caixin Kang, Qihui Zhu, Songming Liu, Xingxing Wei, Hang Su. [From Reactive to Cognitive: Brain-Inspired Spatial Intelligence for Embodied Agents.](https://arxiv.org/abs/2508.17198) Accepted in Principle to **Nature Communications**, 2026.
 
 * Guanglong Sun, Ning Huang, Hongwei Yan, Jun Zhou, Qian Li, Bo Lei, Yi Zhong, **Liyuan Wang**$^\dagger$. [Spacing Effect Improves Generalization in Biological and Artificial Systems.](https://www.biorxiv.org/content/10.64898/2025.12.18.695340v2.full.pdf) Accepted to **Patterns**, 2026.
+
+* Hongwei Yan, Kanglei Zhou, Yuchen Liu, Qingyu Shi, Yi Zhong, **Liyuan Wang**$^{\dagger}$. [CE$^4$L: Continual Ego, Exo, and Ego-Exo Learning.]() In International Conference on Machine Learning (**ICML**), 2026.
+
+* Guanglong Sun, Hongwei Yan, **Liyuan Wang**$^{\dagger}$, Zhiqi Kang, Shuang Cui, Hang Su, Jun Zhu, Yi Zhong$^{\dagger}$. [MePo: Meta Post-Refinement for Rehearsal-Free General Continual Learning.](https://arxiv.org/pdf/2602.07940) In International Conference on Machine Learning (**ICML**), 2026.
+
+* Vaggelis Dorovatas, ..., **Liyuan Wang**$, ..., Rahaf Aljundi. [Position: Modular Memory is the Key to Continual Learning Agents.](https://arxiv.org/pdf/2603.01761) In International Conference on Machine Learning (**ICML**), **Spotlight**, 2026.
 
 * Kanglei Zhou, Chang Li, **Liyuan Wang**$^{\dagger}$. [BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment.](https://arxiv.org/abs/2602.19170) In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
 
