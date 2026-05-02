@@ -66,7 +66,7 @@ Selected Publications and Preprints
 
 * [Trend Virtual Adversarial Training for Semi-Supervised Time Series Classification.](https://link.springer.com/article/10.1007/s11432-025-4559-7) <br> Qingyi Pan, **Liyuan Wang**$^\dagger$, Jingyi Zhang, Jun Zhu, Ning Chen$^\dagger$. <br> Science China Information Sciences (**SCIS**), 2025.
 
-* [DualTeacher: Bridging Coexistence of Unlabelled Classes for Semi-supervised Incremental Object Detection.](https://link.springer.com/article/10.1007/s11432-025-4559-7) <br> Ziqi Yuan$^{\ast}$, **Liyuan Wang**$^{\ast}$, ..., Jianmin Li, Jun Zhu. <br> Science China Information Sciences (**SCIS**), 2025.
+* [DualTeacher: Bridging Coexistence of Unlabelled Classes for Semi-supervised Incremental Object Detection.](https://arxiv.org/abs/2401.05362) <br> Ziqi Yuan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Wenbo Ding, Xingxing Zhang, Jiachen Zhong, Jianyong Ai, Jianmin Li, Jun Zhu. <br> Science China Information Sciences (**SCIS**), 2025.
 
 * [Convergent Multi-Modular Architecture for Adaptive Learning in Drosophila and Artificial Intelligence.](https://www.sciencedirect.com/science/article/pii/S2589004225020607) <br> **Liyuan Wang**$^\dagger$, Qian Li$^\dagger$. <br> **iScience**, 2025.
 
