@@ -36,9 +36,9 @@ Recent News
 Selected Publications and Preprints
 ======
 
-* Kanglei Zhou, Qingyi Pan, Xingxing Zhang, Hubert PH Shum, Frederick WB Li, Xiaohui Liang, **Liyuan Wang**$^\dagger$. [Continual Action Quality Assessment via Adaptive Manifold-Aligned Graph Regularization.](https://arxiv.org/abs/2510.06842) arXiv:2510.06842, Under Review, 2026.
+* [Continual Action Quality Assessment via Adaptive Manifold-Aligned Graph Regularization.](https://arxiv.org/abs/2510.06842) <br> Kanglei Zhou, Qingyi Pan, Xingxing Zhang, Hubert PH Shum, Frederick WB Li, Xiaohui Liang, **Liyuan Wang**$^\dagger$. <br> arXiv:2510.06842, Under Review, 2026.
 
-* Hongwei Yan, Guanglong Sun, Zhiqi Kang, Yi Zhong, **Liyuan Wang**$^\dagger$. [Domain Generalizable Continual Learning.](http://arxiv.org/abs/2510.16914) arXiv:2510.16914, Under Review, 2026.
+* [Domain Generalizable Continual Learning.](http://arxiv.org/abs/2510.16914) <br> Hongwei Yan, Guanglong Sun, Zhiqi Kang, Yi Zhong, **Liyuan Wang**$^\dagger$. <br> arXiv:2510.16914, Under Review, 2026.
 
 * [From Reactive to Cognitive: Brain-Inspired Spatial Intelligence for Embodied Agents.](https://arxiv.org/abs/2508.17198) <br> Shouwei Ruan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Caixin Kang, Qihui Zhu, Songming Liu, Xingxing Wei, Hang Su. <br> Accepted in Principle to **Nature Communications**, 2026.
 
@@ -50,15 +50,15 @@ Selected Publications and Preprints
 
 * [Position: Modular Memory is the Key to Continual Learning Agents.](https://arxiv.org/pdf/2603.01761) <br> Vaggelis Dorovatas, ..., **Liyuan Wang**, ..., Rahaf Aljundi. <br> International Conference on Machine Learning (**ICML**), **Spotlight**, 2026.
 
-* Kanglei Zhou, Chang Li, **Liyuan Wang**$^{\dagger}$. [BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment.](https://arxiv.org/abs/2602.19170) In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
+* [BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment.](https://arxiv.org/abs/2602.19170) <br> Kanglei Zhou, Chang Li, **Liyuan Wang**$^{\dagger}$. <br> IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
 
-* Yuwen Tao, Kanglei Zhou, Chang Li, **Liyuan Wang**. [Geometry-aware Cross-modal Graph Alignment for Referring Segmentation in 3D Gaussian Splatting.]() In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
+* [Geometry-aware Cross-modal Graph Alignment for Referring Segmentation in 3D Gaussian Splatting.]() <br> Yuwen Tao, Kanglei Zhou, Chang Li, **Liyuan Wang**. <br> IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
 
-* Chang Li, Kanglei Zhou, **Liyuan Wang**$^{\dagger}$. [PACE: Pretrained Audio Continual Learning.](https://openreview.net/pdf?id=k5PgSlNc4E) In International Conference on Learning Representations (**ICLR**), 2026.
+* [PACE: Pretrained Audio Continual Learning.](https://openreview.net/pdf?id=k5PgSlNc4E) <br> Chang Li, Kanglei Zhou, **Liyuan Wang**$^{\dagger}$. <br> International Conference on Learning Representations (**ICLR**), 2026.
 
-* Hongwei Yan, Guanglong Sun, Kanglei Zhou, Qian Li, **Liyuan Wang**$^{\dagger}$, Yi Zhong$^{\dagger}$. [FlyPrompt: Brain-Inspired Random-Expanded Routing with Temporal-Ensemble Experts for General Continual Learning.](https://openreview.net/pdf?id=8pi1rP71qv) In International Conference on Learning Representations (**ICLR**), 2026.
+* [FlyPrompt: Brain-Inspired Random-Expanded Routing with Temporal-Ensemble Experts for General Continual Learning.](https://openreview.net/pdf?id=8pi1rP71qv) <br> Hongwei Yan, Guanglong Sun, Kanglei Zhou, Qian Li, **Liyuan Wang**$^{\dagger}$, Yi Zhong$^{\dagger}$. <br> International Conference on Learning Representations (**ICLR**), 2026.
   
-* Zehua Chen$^{\ast}$, Yuyang Miao$^{\ast}$, **Liyuan Wang**$^{\ast\dagger}$, Luyun Fan, Danilo P. Mandic, Jun Zhu$^{\dagger}$. [Versatile Cardiovascular Signal Generation with a Unified Diffusion Transformer.](https://www.nature.com/articles/s42256-025-01147-y) **Nature Machine Intelligence**, 2025.
+* [Versatile Cardiovascular Signal Generation with a Unified Diffusion Transformer.](https://www.nature.com/articles/s42256-025-01147-y) <br> Zehua Chen$^{\ast}$, Yuyang Miao$^{\ast}$, **Liyuan Wang**$^{\ast\dagger}$, Luyun Fan, Danilo P. Mandic, Jun Zhu$^{\dagger}$. <br> **Nature Machine Intelligence**, 2025.
 
 * **Liyuan Wang**$^\dagger$, Qian Li$^\dagger$. [Convergent Multi-Modular Architecture for Adaptive Learning in Drosophila and Artificial Intelligence.](https://www.sciencedirect.com/science/article/pii/S2589004225020607) **iScience**, 2025.
 
