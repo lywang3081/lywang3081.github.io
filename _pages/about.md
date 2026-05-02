@@ -42,7 +42,7 @@ Selected Publications and Preprints
 
 * [From Reactive to Cognitive: Brain-Inspired Spatial Intelligence for Embodied Agents.](https://arxiv.org/abs/2508.17198) <br> Shouwei Ruan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Caixin Kang, Qihui Zhu, Songming Liu, Xingxing Wei, Hang Su. <br> Accepted in Principle to **Nature Communications**, 2026.
 
-* [Spacing Effect Improves Generalization in Biological and Artificial Systems.](https://www.biorxiv.org/content/10.64898/2025.12.18.695340v2.full.pdf) <br> Guanglong Sun, Ning Huang, Hongwei Yan, Jun Zhou, Qian Li, Bo Lei, Yi Zhong, **Liyuan Wang**$^\dagger$. <br> **Patterns**, **Cover Paper**, 2026.
+* [Spacing Effect Improves Generalization in Biological and Artificial Systems.](https://www.biorxiv.org/content/10.64898/2025.12.18.695340v2.full.pdf) <br> Guanglong Sun, Ning Huang, Hongwei Yan, Jun Zhou, Qian Li, Bo Lei, Yi Zhong, **Liyuan Wang**$^\dagger$. <br> **Patterns**, <font color=#a1232b>**Cover Paper**</font></p>, 2026.
 
 * [CE$^4$L: Continual Ego, Exo, and Ego-Exo Learning.]() <br> Hongwei Yan, Kanglei Zhou, Yuchen Liu, Qingyu Shi, Yi Zhong, **Liyuan Wang**$^{\dagger}$. <br> International Conference on Machine Learning (**ICML**), 2026.
 
