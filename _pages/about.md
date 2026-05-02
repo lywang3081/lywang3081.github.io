@@ -36,21 +36,19 @@ Recent News
 Selected Publications and Preprints
 ======
 
-* [From Reactive to Cognitive: Brain-Inspired Spatial Intelligence for Embodied Agents.](https://arxiv.org/abs/2508.17198) <br> Shouwei Ruan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Caixin Kang, Qihui Zhu, Songming Liu, Xingxing Wei, Hang Su. <br> Accepted in Principle to **Nature Communications**, 2026.
-
 * Kanglei Zhou, Qingyi Pan, Xingxing Zhang, Hubert PH Shum, Frederick WB Li, Xiaohui Liang, **Liyuan Wang**$^\dagger$. [Continual Action Quality Assessment via Adaptive Manifold-Aligned Graph Regularization.](https://arxiv.org/abs/2510.06842) arXiv:2510.06842, Under Review, 2026.
 
 * Hongwei Yan, Guanglong Sun, Zhiqi Kang, Yi Zhong, **Liyuan Wang**$^\dagger$. [Domain Generalizable Continual Learning.](http://arxiv.org/abs/2510.16914) arXiv:2510.16914, Under Review, 2026.
 
-* Shouwei Ruan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Caixin Kang, Qihui Zhu, Songming Liu, Xingxing Wei, Hang Su. [From Reactive to Cognitive: Brain-Inspired Spatial Intelligence for Embodied Agents.](https://arxiv.org/abs/2508.17198) Accepted in Principle to **Nature Communications**, 2026.
+* [From Reactive to Cognitive: Brain-Inspired Spatial Intelligence for Embodied Agents.](https://arxiv.org/abs/2508.17198) <br> Shouwei Ruan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Caixin Kang, Qihui Zhu, Songming Liu, Xingxing Wei, Hang Su. <br> Accepted in Principle to **Nature Communications**, 2026.
 
-* Guanglong Sun, Ning Huang, Hongwei Yan, Jun Zhou, Qian Li, Bo Lei, Yi Zhong, **Liyuan Wang**$^\dagger$. [Spacing Effect Improves Generalization in Biological and Artificial Systems.](https://www.biorxiv.org/content/10.64898/2025.12.18.695340v2.full.pdf) **Patterns**, **Cover Paper**, 2026.
+* [Spacing Effect Improves Generalization in Biological and Artificial Systems.](https://www.biorxiv.org/content/10.64898/2025.12.18.695340v2.full.pdf) <br> Guanglong Sun, Ning Huang, Hongwei Yan, Jun Zhou, Qian Li, Bo Lei, Yi Zhong, **Liyuan Wang**$^\dagger$. <br> **Patterns**, **Cover Paper**, 2026.
 
-* Hongwei Yan, Kanglei Zhou, Yuchen Liu, Qingyu Shi, Yi Zhong, **Liyuan Wang**$^{\dagger}$. [CE$^4$L: Continual Ego, Exo, and Ego-Exo Learning.]() In International Conference on Machine Learning (**ICML**), 2026.
+* [CE$^4$L: Continual Ego, Exo, and Ego-Exo Learning.]() <br> Hongwei Yan, Kanglei Zhou, Yuchen Liu, Qingyu Shi, Yi Zhong, **Liyuan Wang**$^{\dagger}$. <br> International Conference on Machine Learning (**ICML**), 2026.
 
-* Guanglong Sun, Hongwei Yan, **Liyuan Wang**$^{\dagger}$, Zhiqi Kang, Shuang Cui, Hang Su, Jun Zhu, Yi Zhong$^{\dagger}$. [MePo: Meta Post-Refinement for Rehearsal-Free General Continual Learning.](https://arxiv.org/pdf/2602.07940) In International Conference on Machine Learning (**ICML**), 2026.
+* [MePo: Meta Post-Refinement for Rehearsal-Free General Continual Learning.](https://arxiv.org/pdf/2602.07940) <br> Guanglong Sun, Hongwei Yan, **Liyuan Wang**$^{\dagger}$, Zhiqi Kang, Shuang Cui, Hang Su, Jun Zhu, Yi Zhong$^{\dagger}$. <br> International Conference on Machine Learning (**ICML**), 2026.
 
-* Vaggelis Dorovatas, ..., **Liyuan Wang**, ..., Rahaf Aljundi. [Position: Modular Memory is the Key to Continual Learning Agents.](https://arxiv.org/pdf/2603.01761) In International Conference on Machine Learning (**ICML**), **Spotlight**, 2026.
+* [Position: Modular Memory is the Key to Continual Learning Agents.](https://arxiv.org/pdf/2603.01761) <br> Vaggelis Dorovatas, ..., **Liyuan Wang**, ..., Rahaf Aljundi. <br> International Conference on Machine Learning (**ICML**), **Spotlight**, 2026.
 
 * Kanglei Zhou, Chang Li, **Liyuan Wang**$^{\dagger}$. [BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment.](https://arxiv.org/abs/2602.19170) In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
 
