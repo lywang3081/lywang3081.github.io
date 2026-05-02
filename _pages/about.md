@@ -98,7 +98,7 @@ Selected Publications and Preprints
   
 * [ORDisCo: Effective and Efficient Usage of Incremental Unlabeled Data for Semi-supervised Continual Learning.](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_ORDisCo_Effective_and_Efficient_Usage_of_Incremental_Unlabeled_Data_for_CVPR_2021_paper.html) <br> **Liyuan Wang**, Kuo Yang, Chongxuan Li, Lanqing Hong, Zhenguo Li, Jun Zhu. <br> IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021.
 
-* [Triple-Memory Networks: A Brain-Inspired Method for Continual Learning.](https://ieeexplore.ieee.org/document/9540230) <br> **Liyuan Wang**, Bo Lei, Qian Li, Hang Su, Jun Zhu, Yi Zhong. <br> IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2021, 33(5):1925-34.
+* [Triple-Memory Networks: A Brain-Inspired Method for Continual Learning.](https://ieeexplore.ieee.org/document/9540230) <br> **Liyuan Wang**, Bo Lei, Qian Li, Hang Su, Jun Zhu, Yi Zhong. <br> IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2021.
 
 * [Few-shot Continual Learning: a Brain-inspired Approach.](https://arxiv.org/abs/2104.09034) <br> **Liyuan Wang**, Qian Li, Yi Zhong, Jun Zhu. <br> arXiv:2104.09034, 2021.
     
