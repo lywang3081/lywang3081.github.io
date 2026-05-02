@@ -60,9 +60,15 @@ Selected Publications and Preprints
   
 * [Versatile Cardiovascular Signal Generation with a Unified Diffusion Transformer.](https://www.nature.com/articles/s42256-025-01147-y) <br> Zehua Chen$^{\ast}$, Yuyang Miao$^{\ast}$, **Liyuan Wang**$^{\ast\dagger}$, Luyun Fan, Danilo P. Mandic, Jun Zhu$^{\dagger}$. <br> **Nature Machine Intelligence**, 2025.
 
-* [Convergent Multi-Modular Architecture for Adaptive Learning in Drosophila and Artificial Intelligence.](https://www.sciencedirect.com/science/article/pii/S2589004225020607) <br> **Liyuan Wang**$^\dagger$, Qian Li$^\dagger$. <br> **iScience**, 2025.
-
 * [HiDe-PET: Continual Learning via Hierarchical Decomposition of Parameter-Efficient Tuning.](https://arxiv.org/abs/2407.05229) <br> **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Hang Su, Jun Zhu. <br> IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025.
+
+* [LUNCH: Adaptive Task Balancing for Online Continual Learning via Hyperparameter Uncertainty.](https://link.springer.com/article/10.1007/s11432-024-4570-7) <br> Qingyi Pan, **Liyuan Wang**$^\dagger$, Jingyi Zhang, Jun Zhu$^\dagger$. <br> Science China Information Sciences (**SCIS**), 2025.
+
+* [Trend Virtual Adversarial Training for Semi-Supervised Time Series Classification.](https://link.springer.com/article/10.1007/s11432-025-4559-7) <br> Qingyi Pan, **Liyuan Wang**$^\dagger$, Jingyi Zhang, Jun Zhu, Ning Chen$^\dagger$. <br> Science China Information Sciences (**SCIS**), 2025.
+
+* [DualTeacher: Bridging Coexistence of Unlabelled Classes for Semi-supervised Incremental Object Detection.](https://link.springer.com/article/10.1007/s11432-025-4559-7) <br> Ziqi Yuan$^{\ast}$, **Liyuan Wang**$^{\ast}$, ..., Jianmin Li, Jun Zhu. <br> Science China Information Sciences (**SCIS**), 2025.
+
+* [Convergent Multi-Modular Architecture for Adaptive Learning in Drosophila and Artificial Intelligence.](https://www.sciencedirect.com/science/article/pii/S2589004225020607) <br> **Liyuan Wang**$^\dagger$, Qian Li$^\dagger$. <br> **iScience**, 2025.
 
 * [Right Time to Learn: Promoting Generalization via Bio-inspired Spacing Effect in Knowledge Distillation.](https://arxiv.org/abs/2502.06192) <br> Guanglong Sun, Hongwei Yan, **Liyuan Wang**$^{\dagger}$, Qian Li, Bo Lei, Yi Zhong. <br> International Conference on Machine Learning (**ICML**), 2025.
 
