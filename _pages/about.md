@@ -48,7 +48,7 @@ Selected Publications and Preprints
 
 * [MePo: Meta Post-Refinement for Rehearsal-Free General Continual Learning.](https://arxiv.org/pdf/2602.07940) <br> Guanglong Sun, Hongwei Yan, **Liyuan Wang**$^{\dagger}$, Zhiqi Kang, Shuang Cui, Hang Su, Jun Zhu, Yi Zhong$^{\dagger}$. <br> International Conference on Machine Learning (**ICML**), 2026.
 
-* [Position: Modular Memory is the Key to Continual Learning Agents.](https://arxiv.org/pdf/2603.01761) <br> Vaggelis Dorovatas, Malte Schwerin , ..., **Liyuan Wang**, Joost van de Weijer, Jonghyun Choi, Martin Mundt, Rahaf Aljundi. <br> International Conference on Machine Learning (**ICML**), **Spotlight**, 2026.
+* [Position: Modular Memory is the Key to Continual Learning Agents.](https://arxiv.org/pdf/2603.01761) <br> Vaggelis Dorovatas, ..., **Liyuan Wang**, Joost van de Weijer, Jonghyun Choi, Martin Mundt, Rahaf Aljundi. <br> International Conference on Machine Learning (**ICML**), **Spotlight**, 2026.
 
 * [BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment.](https://arxiv.org/abs/2602.19170) <br> Kanglei Zhou, Chang Li, **Liyuan Wang**$^{\dagger}$. <br> IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
 
