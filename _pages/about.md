@@ -70,31 +70,31 @@ Selected Publications and Preprints
 
 * [A Comprehensive Survey of Continual Learning: Theory, Method and Application.](https://arxiv.org/abs/2302.00487) <br> **Liyuan Wang**, Xingxing Zhang, Hang Su, Jun Zhu. <br> IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), **Popular Documents (Top 0.1%)**, 2024.
 
-* Kanglei Zhou, **Liyuan Wang**, Xingxing Zhang, Hubert Shum, Frederick Li, Jianguo Li, Xiaohui Liang. [MAGR: Manifold-Aligned Graph Regularization for Continual Action Quality Assessment.](https://arxiv.org/abs/2403.04398) In European Conference on Computer Vision (**ECCV**), **Oral**, 2024.
+* [MAGR: Manifold-Aligned Graph Regularization for Continual Action Quality Assessment.](https://arxiv.org/abs/2403.04398) <br> Kanglei Zhou, **Liyuan Wang**, Xingxing Zhang, Hubert Shum, Frederick Li, Jianguo Li, Xiaohui Liang. <br> European Conference on Computer Vision (**ECCV**), **Oral**, 2024.
 
-* Hongwei Yan, **Liyuan Wang**$^{\dagger}$, Kaisheng Ma$^{\dagger}$, Yi Zhong$^{\dagger}$. [Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation.](https://arxiv.org/abs/2404.00417) In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.
+* [Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation.](https://arxiv.org/abs/2404.00417) <br> Hongwei Yan, **Liyuan Wang**$^{\dagger}$, Kaisheng Ma$^{\dagger}$, Yi Zhong$^{\dagger}$. <br> IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024.
   
-* **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Qian Li, Mingtian Zhang, Hang Su, Jun Zhu, Yi Zhong. [Incorporating Neuro-Inspired Adaptability for Continual Learning in Artificial Intelligence.](https://www.nature.com/articles/s42256-023-00747-w) **Nature Machine Intelligence**, **Cover Paper**, 2023.
+* [Incorporating Neuro-Inspired Adaptability for Continual Learning in Artificial Intelligence.](https://www.nature.com/articles/s42256-023-00747-w) <br> **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Qian Li, Mingtian Zhang, Hang Su, Jun Zhu, Yi Zhong. <br> **Nature Machine Intelligence**, **Cover Paper**, 2023.
 
-* **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Mingyi Huang, Hang Su, Jun Zhu. [Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality.](https://arxiv.org/abs/2310.07234) In Neural Information Processing Systems (**NeurIPS**), **Spotlight**, 2023.
+* [Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality.](https://arxiv.org/abs/2310.07234) <br> **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Mingyi Huang, Hang Su, Jun Zhu. <br> Neural Information Processing Systems (**NeurIPS**), **Spotlight**, 2023.
 
-* Yilin Lyu$^{\ast}$, **Liyuan Wang**$^{\ast}$, Xingxing Zhang, Zicheng Sun, Hang Su, Jun Zhu, Liping Jing. [Overcoming Recency Bias of Normalization Statistics in Continual Learning: Balance and Adaptation.](https://arxiv.org/abs/2310.08855) In Neural Information Processing Systems (**NeurIPS**), 2023.
+* [Overcoming Recency Bias of Normalization Statistics in Continual Learning: Balance and Adaptation.](https://arxiv.org/abs/2310.08855) <br> Yilin Lyu$^{\ast}$, **Liyuan Wang**$^{\ast}$, Xingxing Zhang, Zicheng Sun, Hang Su, Jun Zhu, Liping Jing. <br> Neural Information Processing Systems (**NeurIPS**), 2023.
 
-* Gengwei Zhang$^{\ast}$, **Liyuan Wang**$^{\ast}$, Guoliang Kang, Ling Chen, Yunchao Wei. [SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model.](https://arxiv.org/abs/2303.05118) In International Conference on Computer Vision (**ICCV**), 2023.
+* [SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model.](https://arxiv.org/abs/2303.05118) <br> Gengwei Zhang$^{\ast}$, **Liyuan Wang**$^{\ast}$, Guoliang Kang, Ling Chen, Yunchao Wei. <br> International Conference on Computer Vision (**ICCV**), 2023.
 
-* Jianjian Zhao, Xuchen Zhang, Bohan Zhao, **Liyuan Wang**, Wantong Hu, Yi Zhong, Qian Li. [Genetic Dissection of Mutual Interference between Two Consecutively Learned Tasks in Drosophila.](https://www.biorxiv.org/content/10.1101/2022.10.18.512721.abstract) **eLife**, 2023, 12:e83516.
+* [Genetic Dissection of Mutual Interference between Two Consecutively Learned Tasks in Drosophila.](https://www.biorxiv.org/content/10.1101/2022.10.18.512721.abstract) <br> Jianjian Zhao, Xuchen Zhang, Bohan Zhao, **Liyuan Wang**, Wantong Hu, Yi Zhong, Qian Li. <br> **eLife**, 2023.
 
-* **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Qian Li, Jun Zhu, Yi Zhong. [CoSCL: Cooperation of Small Continual Learners is Stronger than a Big One.](https://arxiv.org/abs/2207.06543) In European Conference on Computer Vision (**ECCV**), 2022.
+* [CoSCL: Cooperation of Small Continual Learners is Stronger than a Big One.](https://arxiv.org/abs/2207.06543) <br> **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Qian Li, Jun Zhu, Yi Zhong. <br> European Conference on Computer Vision (**ECCV**), 2022.
 
-* **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Kuo Yang, Longhui Yu, Chongxuan Li, Lanqing Hong, Shifeng Zhang, Zhenguo Li, Yi Zhong, Jun Zhu. [Memory Replay with Data Compression for Continual Learning.](https://openreview.net/pdf?id=a7H7OucbWaU) In International Conference on Learning Representations (**ICLR**), 2022.
+* [Memory Replay with Data Compression for Continual Learning.](https://openreview.net/pdf?id=a7H7OucbWaU) <br> **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Kuo Yang, Longhui Yu, Chongxuan Li, Lanqing Hong, Shifeng Zhang, Zhenguo Li, Yi Zhong, Jun Zhu. <br> International Conference on Learning Representations (**ICLR**), 2022.
 
-* **Liyuan Wang**, Mingtian Zhang, Zhongfan Jia, Qian Li, Chenglong Bao, Kaisheng Ma, Jun Zhu, Yi Zhong. [AFEC: Active Forgetting of Negative Transfer in Continual Learning.](https://papers.nips.cc/paper/2021/hash/bc6dc48b743dc5d013b1abaebd2faed2-Abstract.html) In Neural Information Processing Systems (**NeurIPS**), 2021.
+* [AFEC: Active Forgetting of Negative Transfer in Continual Learning.](https://papers.nips.cc/paper/2021/hash/bc6dc48b743dc5d013b1abaebd2faed2-Abstract.html) <br> **Liyuan Wang**, Mingtian Zhang, Zhongfan Jia, Qian Li, Chenglong Bao, Kaisheng Ma, Jun Zhu, Yi Zhong. <br> Neural Information Processing Systems (**NeurIPS**), 2021.
   
-* **Liyuan Wang**, Kuo Yang, Chongxuan Li, Lanqing Hong, Zhenguo Li, Jun Zhu. [ORDisCo: Effective and Efficient Usage of Incremental Unlabeled Data for Semi-supervised Continual Learning.](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_ORDisCo_Effective_and_Efficient_Usage_of_Incremental_Unlabeled_Data_for_CVPR_2021_paper.html) In IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021.
+* [ORDisCo: Effective and Efficient Usage of Incremental Unlabeled Data for Semi-supervised Continual Learning.](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_ORDisCo_Effective_and_Efficient_Usage_of_Incremental_Unlabeled_Data_for_CVPR_2021_paper.html) <br> **Liyuan Wang**, Kuo Yang, Chongxuan Li, Lanqing Hong, Zhenguo Li, Jun Zhu. <br> IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021.
 
-* **Liyuan Wang**, Bo Lei, Qian Li, Hang Su, Jun Zhu, Yi Zhong. [Triple-Memory Networks: A Brain-Inspired Method for Continual Learning.](https://ieeexplore.ieee.org/document/9540230) IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2021, 33(5):1925-34.
+* [Triple-Memory Networks: A Brain-Inspired Method for Continual Learning.](https://ieeexplore.ieee.org/document/9540230) <br> **Liyuan Wang**, Bo Lei, Qian Li, Hang Su, Jun Zhu, Yi Zhong. <br> IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2021, 33(5):1925-34.
 
-* **Liyuan Wang**, Qian Li, Yi Zhong, Jun Zhu. [Few-shot Continual Learning: a Brain-inspired Approach.](https://arxiv.org/abs/2104.09034) arXiv:2104.09034, 2021.
+* [Few-shot Continual Learning: a Brain-inspired Approach.](https://arxiv.org/abs/2104.09034) <br> **Liyuan Wang**, Qian Li, Yi Zhong, Jun Zhu. <br> arXiv:2104.09034, 2021.
     
 
 Academic Services
