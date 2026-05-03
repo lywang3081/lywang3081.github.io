@@ -88,7 +88,7 @@ Selected Publications and Preprints
 
 * [SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model.](https://arxiv.org/abs/2303.05118) <br> Gengwei Zhang$^{\ast}$, **Liyuan Wang**$^{\ast}$, Guoliang Kang, Ling Chen, Yunchao Wei. <br> International Conference on Computer Vision (**ICCV**), 2023.
 
-* [Genetic Dissection of Mutual Interference between Two Consecutively Learned Tasks in Drosophila.](https://www.biorxiv.org/content/10.1101/2022.10.18.512721.abstract) <br> Jianjian Zhao, Xuchen Zhang, Bohan Zhao, **Liyuan Wang**, Wantong Hu, Yi Zhong, Qian Li. <br> **eLife**, 2023.
+* [Genetic Dissection of Mutual Interference between Two Consecutive Learning Tasks in Drosophila.](https://elifesciences.org/articles/83516) <br> Jianjian Zhao, Xuchen Zhang, Bohan Zhao, Wantong Hu, Tongxin Diao, **Liyuan Wang**, Yi Zhong, Qian Li. <br> **eLife**, 2023.
 
 * [CoSCL: Cooperation of Small Continual Learners is Stronger than a Big One.](https://arxiv.org/abs/2207.06543) <br> **Liyuan Wang**$^{\ast}$, Xingxing Zhang$^{\ast}$, Qian Li, Jun Zhu, Yi Zhong. <br> European Conference on Computer Vision (**ECCV**), 2022.
 
