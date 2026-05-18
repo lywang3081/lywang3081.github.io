@@ -36,6 +36,8 @@ Recent News
 Selected Publications and Preprints
 ======
 
+* [ProCA: Progressive Contrastive Alignment for Robust EEG Visual Decoding.]() <br> Kanglei Zhou, Chunyan Lan, Dongyang Li, Jun Zhu, **Liyuan Wang**$^\dagger$. <br> Under Review, 2026.
+
 * [Continual Action Quality Assessment via Adaptive Manifold-Aligned Graph Regularization.](https://arxiv.org/abs/2510.06842) <br> Kanglei Zhou, Qingyi Pan, Xingxing Zhang, Hubert PH Shum, Frederick WB Li, Xiaohui Liang, **Liyuan Wang**$^\dagger$. <br> arXiv:2510.06842, Under Review, 2026.
 
 * [Domain Generalizable Continual Learning.](http://arxiv.org/abs/2510.16914) <br> Hongwei Yan, Guanglong Sun, Zhiqi Kang, Yi Zhong, **Liyuan Wang**$^\dagger$. <br> arXiv:2510.16914, Under Review, 2026.
