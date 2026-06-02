@@ -18,7 +18,7 @@ My email address is changed to *liyuanwang@tsinghua.edu.cn* and *wly19@tsinghua.
 Recent News
 ======
 * 2026/05  Three papers are accepted to ICML.
-* 2026/04  One paper is accepted (in principle) to Nature Communications.
+* 2026/04  One paper is accepted to Nature Communications.
 * 2026/04  One paper is accepted to Patterns (as the cover).
 * 2026/03  I will serve as an Action Editor for TMLR.
 * 2026/02  Two papers are accepted to CVPR 2026.
@@ -44,7 +44,7 @@ Selected Publications and Preprints
 
 * [Domain Generalizable Continual Learning.](http://arxiv.org/abs/2510.16914) <br> Hongwei Yan, Guanglong Sun, Zhiqi Kang, Yi Zhong, **Liyuan Wang**$^\dagger$. <br> arXiv:2510.16914, Under Review, 2026.
 
-* [From Reactive to Cognitive: Brain-Inspired Spatial Intelligence for Embodied Agents.](https://arxiv.org/abs/2508.17198) <br> Shouwei Ruan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Caixin Kang, Qihui Zhu, Songming Liu, Xingxing Wei, Hang Su. <br> Accepted in Principle to **Nature Communications**, 2026.
+* [Brain-Inspired Spatial Intelligence for Embodied Agents.](https://arxiv.org/abs/2508.17198) <br> Shouwei Ruan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Caixin Kang, Qihui Zhu, Songming Liu, Xingxing Wei, Hang Su. <br> Accepted to **Nature Communications**, 2026.
 
 * [Spacing Effect Improves Generalization in Biological and Artificial Systems.](https://www.biorxiv.org/content/10.64898/2025.12.18.695340v2.full.pdf) <br> Guanglong Sun, Ning Huang, Hongwei Yan, Jun Zhou, Qian Li, Bo Lei, Yi Zhong, **Liyuan Wang**$^\dagger$. <br> **Patterns**, **Cover Paper**, 2026.
 
