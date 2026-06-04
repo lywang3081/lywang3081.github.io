@@ -45,6 +45,8 @@ Selected Publications and Preprints
 
 * [Domain Generalizable Continual Learning.](http://arxiv.org/abs/2510.16914) <br> Hongwei Yan, Guanglong Sun, Zhiqi Kang, Yi Zhong, **Liyuan Wang**$^\dagger$. <br> arXiv:2510.16914, Under Review, 2026.
 
+* [Cephalopod-inspired embodied camouflage system for simultaneous evasion of biological and artificial visual perceptions.]() <br> Xiaopei Zhu$^{\ast}$, Jiongchen Zhang$^{\ast}$, **Liyuan Wang**$^{\ast}$, Xitong Liang, Jun Zhu, Xiaolin Hu. <br> Accepted in Principle to **Nature Communications**, 2026.
+  
 * [Brain-Inspired Spatial Intelligence for Embodied Agents.](https://arxiv.org/abs/2508.17198) <br> Shouwei Ruan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Caixin Kang, Qihui Zhu, Songming Liu, Xingxing Wei, Hang Su. <br> Accepted to **Nature Communications**, 2026.
 
 * [Spacing Effect Improves Generalization in Biological and Artificial Systems.](https://www.biorxiv.org/content/10.64898/2025.12.18.695340v2.full.pdf) <br> Guanglong Sun, Ning Huang, Hongwei Yan, Jun Zhou, Qian Li, Bo Lei, Yi Zhong, **Liyuan Wang**$^\dagger$. <br> **Patterns**, **Cover Paper**, 2026.
