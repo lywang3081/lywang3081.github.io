@@ -17,6 +17,7 @@ My email address is changed to *liyuanwang@tsinghua.edu.cn* and *wly19@tsinghua.
 
 Recent News
 ======
+* 2026/06  One paper is accepted (in principle) to Nature Communications.
 * 2026/05  Three papers are accepted to ICML.
 * 2026/04  One paper is accepted to Nature Communications.
 * 2026/04  One paper is accepted to Patterns (as the cover).
