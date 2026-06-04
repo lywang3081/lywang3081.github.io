@@ -45,7 +45,7 @@ Selected Publications and Preprints
 
 * [Domain Generalizable Continual Learning.](http://arxiv.org/abs/2510.16914) <br> Hongwei Yan, Guanglong Sun, Zhiqi Kang, Yi Zhong, **Liyuan Wang**$^\dagger$. <br> arXiv:2510.16914, Under Review, 2026.
 
-* [Cephalopod-inspired embodied camouflage system for simultaneous evasion of biological and artificial visual perceptions.]() <br> Xiaopei Zhu$^{\ast}$, Jiongchen Zhang$^{\ast}$, **Liyuan Wang**$^{\ast}$, Xitong Liang, Jun Zhu, Xiaolin Hu. <br> Accepted in Principle to **Nature Communications**, 2026.
+* [Cephalopod-Inspired Embodied Camouflage System for Simultaneous Evasion of Biological and Artificial Visual Perceptions.]() <br> Xiaopei Zhu$^{\ast}$, Jiongchen Zhang$^{\ast}$, **Liyuan Wang**$^{\ast}$, Xitong Liang, Jun Zhu, Xiaolin Hu. <br> Accepted in Principle to **Nature Communications**, 2026.
   
 * [Brain-Inspired Spatial Intelligence for Embodied Agents.](https://arxiv.org/abs/2508.17198) <br> Shouwei Ruan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Caixin Kang, Qihui Zhu, Songming Liu, Xingxing Wei, Hang Su. <br> Accepted to **Nature Communications**, 2026.
 
