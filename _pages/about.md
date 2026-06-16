@@ -39,6 +39,8 @@ Recent News
 Selected Publications and Preprints
 ======
 
+* [Steering Topology Distributions for Unified Generative Design of Architected Metamaterials.]() <br> Haolin Li, Yuyang Miao, Menglei Li, Jinshuai Bai, **Liyuan Wang**$^\dagger$, Xin Liu, Bo Gao, Zahra Sharif Khodaei, Jiantao Liu, Danilo Mandic, M. H. Aliabadi, Weiqiu Chen$^\dagger$. <br> Under Review, 2026.
+
 * [ProCA: Progressive Contrastive Alignment for Robust EEG Visual Decoding.]() <br> Kanglei Zhou, Chunyan Lan, Dongyang Li, Jun Zhu, **Liyuan Wang**$^\dagger$. <br> Under Review, 2026.
 
 * [Continual Action Quality Assessment via Adaptive Manifold-Aligned Graph Regularization.](https://arxiv.org/abs/2510.06842) <br> Kanglei Zhou, Qingyi Pan, Xingxing Zhang, Hubert PH Shum, Frederick WB Li, Xiaohui Liang, **Liyuan Wang**$^\dagger$. <br> arXiv:2510.06842, Under Review, 2026.
@@ -120,6 +122,7 @@ Academic Services
 
 Honors and Awards
 ======
+* Beijing Outstanding Young Scientist Program, 2026
 * Capital Frontier Academic Achievements (CFAA), 2025.
 * World AI Conference (WAIC) Youth Outstanding Paper Award, 2025.
 * Chinese Association for Artificial Intelligence (CAAI) Rising Scientist, 2025.
