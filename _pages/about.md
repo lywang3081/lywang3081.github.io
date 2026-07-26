@@ -17,6 +17,7 @@ My email address is changed to *liyuanwang@tsinghua.edu.cn* and *wly19@tsinghua.
 
 Recent News
 ======
+* 2026/07  We are organizing the 1st [CL4FMAgents Workshop](https://neurips26-cl4fmagents.github.io/) at NeurIPS 2026.
 * 2026/06  One paper is accepted (in principle) to Nature Communications.
 * 2026/05  Three papers are accepted to ICML.
 * 2026/04  One paper is accepted to Nature Communications.
@@ -29,7 +30,7 @@ Recent News
 * 2025/10  One paper is accepted to Nature Machine Intelligence.
 * 2025/07  I received the WAIC Youth Outstanding Paper Award.
 * 2025/06  I was awarded the CAAI Rising Scientist.
-* 2025/05  We are organizing the 6th CLVision Workshop in ICCV 2025.
+* 2025/05  We are organizing the 6th [CLVision Workshop](https://sites.google.com/view/clvision2025) at ICCV 2025.
 * 2025/04  One paper is accepted to IEEE TPAMI.
 * 2025/04  I will serve as an Area Chair at NeurIPS 2025.
 * 2024/09  I received the Excellent Conference Poster Award in CNS 2024.
