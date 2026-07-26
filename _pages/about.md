@@ -49,7 +49,7 @@ Selected Publications and Preprints
 
 * [Cephalopod-Inspired Embodied Camouflage System for Simultaneous Evasion of Biological and Artificial Visual Perceptions.]() <br> Xiaopei Zhu$^{\ast}$, Jiongchen Zhang$^{\ast}$, **Liyuan Wang**$^{\ast}$, Xitong Liang, Jun Zhu, Xiaolin Hu. <br> Accepted in Principle to **Nature Communications**, 2026.
   
-* [Brain-Inspired Spatial Intelligence for Embodied Agents.](https://arxiv.org/abs/2508.17198) <br> Shouwei Ruan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Caixin Kang, Qihui Zhu, Songming Liu, Xingxing Wei, Hang Su. <br> Accepted to **Nature Communications**, 2026.
+* [Brain-Inspired Spatial Intelligence for Embodied Agents.](https://www.nature.com/articles/s41467-026-74358-5) <br> Shouwei Ruan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Caixin Kang, Qihui Zhu, Songming Liu, Xingxing Wei, Hang Su. <br> **Nature Communications**, 2026.
 
 * [Spacing Effect Improves Generalization in Biological and Artificial Systems.](https://www.biorxiv.org/content/10.64898/2025.12.18.695340v2.full.pdf) <br> Guanglong Sun, Ning Huang, Hongwei Yan, Jun Zhou, Qian Li, Bo Lei, Yi Zhong, **Liyuan Wang**$^\dagger$. <br> **Patterns**, **Cover Paper**, 2026.
 
