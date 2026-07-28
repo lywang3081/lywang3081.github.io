@@ -40,7 +40,7 @@ Recent News
 Selected Publications and Preprints
 ======
 
-* [Steering Topology Distributions for Unified Generative Design of Architected Metamaterials.]() <br> Haolin Li, Yuyang Miao, Menglei Li, Jinshuai Bai, **Liyuan Wang**$^\dagger$, Xin Liu, Bo Gao, Zahra Sharif Khodaei, Jiantao Liu, Danilo Mandic, M. H. Aliabadi, Weiqiu Chen$^\dagger$. <br> Under Review, 2026.
+* [Steering Topology Distributions for Unified Generative Design of Architected Metamaterials.](https://www.researchsquare.com/article/rs-10141322/v1.pdf) <br> Haolin Li, Yuyang Miao, Menglei Li, Jinshuai Bai, **Liyuan Wang**$^\dagger$, Xin Liu, Bo Gao, Zahra Sharif Khodaei, Jiantao Liu, Danilo Mandic, M. H. Aliabadi, Weiqiu Chen$^\dagger$. <br> Under Review, 2026.
 
 * [ProCA: Progressive Contrastive Alignment for Robust EEG Visual Decoding.]() <br> Kanglei Zhou, Chunyan Lan, Dongyang Li, Jun Zhu, **Liyuan Wang**$^\dagger$. <br> Under Review, 2026.
 
