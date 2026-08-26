@@ -17,6 +17,7 @@ My email address is changed to *liyuanwang@tsinghua.edu.cn* and *wly19@tsinghua.
 
 Recent News
 ======
+* 2026/08  I received the NSFC Youth Science Fund (Category B).
 * 2026/08  I will serve as an Area Chair at ICLR 2027.
 * 2026/07  We are organizing the 1st [CL4FMAgents Workshop](https://neurips26-cl4fmagents.github.io/) at NeurIPS 2026.
 * 2026/06  One paper is accepted (in principle) to Nature Communications.
