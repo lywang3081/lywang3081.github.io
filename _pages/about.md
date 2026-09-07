@@ -44,7 +44,7 @@ Selected Publications and Preprints
 
 * [Steering Topology Distributions for Unified Generative Design of Architected Metamaterials.](https://www.researchsquare.com/article/rs-10141322/v1.pdf) <br> Haolin Li, Yuyang Miao, Menglei Li, Jinshuai Bai, **Liyuan Wang**$^\dagger$, Xin Liu, Bo Gao, Zahra Sharif Khodaei, Jiantao Liu, Danilo Mandic, M. H. Aliabadi, Weiqiu Chen$^\dagger$. <br> arXiv:2607.24777, Under Review, 2026.
 
-* [ProCA: Progressive Contrastive Alignment for Robust EEG Visual Decoding.]() <br> Kanglei Zhou, Chunyan Lan, Dongyang Li, Jun Zhu, **Liyuan Wang**$^\dagger$. <br> Under Review, 2026.
+* [ProCA: Progressive Contrastive Alignment for Robust EEG Visual Decoding.](https://arxiv.org/abs/2609.05094) <br> Kanglei Zhou, Chunyan Lan, Dongyang Li, Jun Zhu, **Liyuan Wang**$^\dagger$. <br> arXiv:2609.05094, Under Review, 2026.
 
 * [Continual Action Quality Assessment via Adaptive Manifold-Aligned Graph Regularization.](https://arxiv.org/abs/2510.06842) <br> Kanglei Zhou, Qingyi Pan, Xingxing Zhang, Hubert PH Shum, Frederick WB Li, Xiaohui Liang, **Liyuan Wang**$^\dagger$. <br> arXiv:2510.06842, Under Review, 2026.
 
