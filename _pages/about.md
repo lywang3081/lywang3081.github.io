@@ -20,7 +20,7 @@ Recent News
 * 2026/08  I received the NSFC Youth Science Fund (Category B).
 * 2026/08  I will serve as an Area Chair at ICLR 2027.
 * 2026/07  We are organizing the 1st [CL4FMAgents Workshop](https://neurips26-cl4fmagents.github.io/) at NeurIPS 2026.
-* 2026/06  One paper is accepted (in principle) to Nature Communications.
+* 2026/06  One paper is accepted to Nature Communications.
 * 2026/05  Three papers are accepted to ICML.
 * 2026/04  One paper is accepted to Nature Communications.
 * 2026/04  One paper is accepted to Patterns (as the cover).
@@ -42,6 +42,8 @@ Recent News
 Selected Publications and Preprints
 ======
 
+* [Brain-inspired Hierarchical Modularity for General Continual Learning.]() <br> Hongwei Yan, Kanglei Zhou, Qi Cheng, Weiyi Dong, Chunyan Lan, Jun Zhou, Guanglong Sun, Qian Li, Yi Zhong, **Liyuan Wang**$^\dagger$. <br> Under Review, 2026.
+
 * [Steering Topology Distributions for Unified Generative Design of Architected Metamaterials.](https://www.researchsquare.com/article/rs-10141322/v1.pdf) <br> Haolin Li, Yuyang Miao, Menglei Li, Jinshuai Bai, **Liyuan Wang**$^\dagger$, Xin Liu, Bo Gao, Zahra Sharif Khodaei, Jiantao Liu, Danilo Mandic, M. H. Aliabadi, Weiqiu Chen$^\dagger$. <br> arXiv:2607.24777, Under Review, 2026.
 
 * [ProCA: Progressive Contrastive Alignment for Robust EEG Visual Decoding.](https://arxiv.org/abs/2609.05094) <br> Kanglei Zhou, Chunyan Lan, Dongyang Li, Jun Zhu, **Liyuan Wang**$^\dagger$. <br> arXiv:2609.05094, Under Review, 2026.
@@ -50,7 +52,7 @@ Selected Publications and Preprints
 
 * [Domain Generalizable Continual Learning.](http://arxiv.org/abs/2510.16914) <br> Hongwei Yan, Guanglong Sun, Zhiqi Kang, Yi Zhong, **Liyuan Wang**$^\dagger$. <br> arXiv:2510.16914, Under Review, 2026.
 
-* [Cephalopod-Inspired Embodied Camouflage System for Simultaneous Evasion of Biological and Artificial Visual Perceptions.]() <br> Xiaopei Zhu$^{\ast}$, Jiongchen Zhang$^{\ast}$, **Liyuan Wang**$^{\ast}$, Xitong Liang, Jun Zhu, Xiaolin Hu. <br> Accepted in Principle to **Nature Communications**, 2026.
+* [Cephalopod-Inspired Embodied Camouflage System for Simultaneous Evasion of Biological and Artificial Visual Perceptions.]() <br> Xiaopei Zhu$^{\ast}$, Jiongchen Zhang$^{\ast}$, **Liyuan Wang**$^{\ast}$, Xitong Liang, Jun Zhu, Xiaolin Hu. <br> **Nature Communications**, 2026.
   
 * [Brain-Inspired Spatial Intelligence for Embodied Agents.](https://www.nature.com/articles/s41467-026-74358-5) <br> Shouwei Ruan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Caixin Kang, Qihui Zhu, Songming Liu, Xingxing Wei, Hang Su. <br> **Nature Communications**, 2026.
 
