@@ -53,11 +53,13 @@ Selected Publications and Preprints
 
 * [Domain Generalizable Continual Learning.](http://arxiv.org/abs/2510.16914) <br> Hongwei Yan, Guanglong Sun, Zhiqi Kang, Yi Zhong, **Liyuan Wang**$^\dagger$. <br> arXiv:2510.16914, Under Review, 2026.
 
+* [Spacing Effect Improves Generalization in Biological and Artificial Systems.](https://www.biorxiv.org/content/10.64898/2025.12.18.695340v2.full.pdf) <br> Guanglong Sun, Ning Huang, Hongwei Yan, Jun Zhou, Qian Li, Bo Lei, Yi Zhong, **Liyuan Wang**$^\dagger$. <br> **Patterns**, **Cover Paper**, 2026.
+
+* [SLCA++: Unleash the Power of Sequential Fine-tuning for Continual Learning with Pre-training.](https://arxiv.org/abs/2408.08295) <br> Gengwei Zhang$^{\ast}$, **Liyuan Wang**$^{\ast}$, Guoliang Kang, Ling Chen, Yunchao Wei. <br> International Journal of Computer Vision (**IJCV**), 2026.
+
 * [Cephalopod-Inspired Embodied Camouflage System for Simultaneous Evasion of Biological and Artificial Visual Perceptions.]() <br> Xiaopei Zhu$^{\ast}$, Jiongchen Zhang$^{\ast}$, **Liyuan Wang**$^{\ast}$, Xitong Liang, Jun Zhu, Xiaolin Hu. <br> **Nature Communications**, 2026.
   
 * [Brain-Inspired Spatial Intelligence for Embodied Agents.](https://www.nature.com/articles/s41467-026-74358-5) <br> Shouwei Ruan$^{\ast}$, **Liyuan Wang**$^{\ast}$, Caixin Kang, Qihui Zhu, Songming Liu, Xingxing Wei, Hang Su. <br> **Nature Communications**, 2026.
-
-* [Spacing Effect Improves Generalization in Biological and Artificial Systems.](https://www.biorxiv.org/content/10.64898/2025.12.18.695340v2.full.pdf) <br> Guanglong Sun, Ning Huang, Hongwei Yan, Jun Zhou, Qian Li, Bo Lei, Yi Zhong, **Liyuan Wang**$^\dagger$. <br> **Patterns**, **Cover Paper**, 2026.
 
 * [CE$^4$L: Continual Ego, Exo, and Ego-Exo Learning.]() <br> Hongwei Yan, Kanglei Zhou, Yuchen Liu, Qingyu Shi, Yi Zhong, **Liyuan Wang**$^{\dagger}$. <br> International Conference on Machine Learning (**ICML**), 2026.
 
