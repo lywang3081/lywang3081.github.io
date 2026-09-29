@@ -75,7 +75,7 @@ Selected Publications and Preprints
 
 * [FlyPrompt: Brain-Inspired Random-Expanded Routing with Temporal-Ensemble Experts for General Continual Learning.](https://openreview.net/pdf?id=8pi1rP71qv) <br> Hongwei Yan, Guanglong Sun, Kanglei Zhou, Qian Li, **Liyuan Wang**$^{\dagger}$, Yi Zhong$^{\dagger}$. <br> International Conference on Learning Representations (**ICLR**), 2026.
   
-* [Versatile Cardiovascular Signal Generation with a Unified Diffusion Transformer.](https://www.nature.com/articles/s42256-025-01147-y) <br> Zehua Chen$^{\ast}$, Yuyang Miao$^{\ast}$, **Liyuan Wang**$^{\ast\dagger}$, Luyun Fan, Danilo P. Mandic, Jun Zhu$^{\dagger}$. <br> **Nature Machine Intelligence**, 2025.
+* [Versatile Cardiovascular Signal Generation with a Unified Diffusion Transformer.](https://www.nature.com/articles/s42256-025-01147-y) <br> Zehua Chen$^{\ast}$, Yuyang Miao$^{\ast}$, **Liyuan Wang**$^{\ast\dagger}$, Luyun Fan, Danilo P. Mandic, Jun Zhu$^{\dagger}$. <br> **Nature Machine Intelligence**, 2026.
 
 * [HiDe-PET: Continual Learning via Hierarchical Decomposition of Parameter-Efficient Tuning.](https://arxiv.org/abs/2407.05229) <br> **Liyuan Wang**, Jingyi Xie, Xingxing Zhang, Hang Su, Jun Zhu. <br> IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025.
 
