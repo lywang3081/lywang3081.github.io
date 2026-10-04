@@ -17,6 +17,7 @@ My email address is changed to *liyuanwang@tsinghua.edu.cn* and *wly19@tsinghua.
 
 Recent News
 ======
+* 2026/10  One paper is accepted to IEEE TPAMI.
 * 2026/09  Two papers are accepted to IJCV.
 * 2026/08  I received the NSFC Youth Science Fund (Category B).
 * 2026/08  I will serve as an Area Chair at ICLR 2027.
@@ -49,9 +50,9 @@ Selected Publications and Preprints
 
 * [ProCA: Progressive Contrastive Alignment for Robust EEG Visual Decoding.](https://arxiv.org/abs/2609.05094) <br> Kanglei Zhou, Chunyan Lan, Dongyang Li, Jun Zhu, **Liyuan Wang**$^\dagger$. <br> arXiv:2609.05094, Under Review, 2026.
 
-* [Continual Action Quality Assessment via Adaptive Manifold-Aligned Graph Regularization.](https://arxiv.org/abs/2510.06842) <br> Kanglei Zhou, Qingyi Pan, Xingxing Zhang, Hubert PH Shum, Frederick WB Li, Xiaohui Liang, **Liyuan Wang**$^\dagger$. <br> arXiv:2510.06842, Under Review, 2026.
-
 * [Domain Generalizable Continual Learning.](http://arxiv.org/abs/2510.16914) <br> Hongwei Yan, Guanglong Sun, Zhiqi Kang, Yi Zhong, **Liyuan Wang**$^\dagger$. <br> arXiv:2510.16914, Under Review, 2026.
+
+* [Continual Action Quality Assessment via Adaptive Manifold-Aligned Graph Regularization.](https://arxiv.org/abs/2510.06842) <br> Kanglei Zhou, Qingyi Pan, Xingxing Zhang, Hubert PH Shum, Frederick WB Li, Xiaohui Liang, **Liyuan Wang**$^\dagger$. <br> IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026.
   
 * [SLCA++: Unleash the Power of Sequential Fine-tuning for Continual Learning with Pre-training.](https://arxiv.org/abs/2408.08295) <br> Gengwei Zhang$^{\ast}$, **Liyuan Wang**$^{\ast}$, Guoliang Kang, Ling Chen, Yunchao Wei. <br> International Journal of Computer Vision (**IJCV**), 2026.
 
