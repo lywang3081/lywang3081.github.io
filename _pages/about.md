@@ -17,6 +17,7 @@ My email address is changed to *liyuanwang@tsinghua.edu.cn* and *wly19@tsinghua.
 
 Recent News
 ======
+* 2026/10  Our first paper on AI Psychology is posted on arXiv. 
 * 2026/10  One paper is accepted to IEEE TPAMI.
 * 2026/09  Two papers are accepted to IJCV.
 * 2026/08  I received the NSFC Youth Science Fund (Category B).
@@ -43,6 +44,7 @@ Recent News
 
 Selected Publications and Preprints
 ======
+* [Beyond Belief Nesting: Rethinking Higher-Order Theory of Mind in Large Language Models.](https://arxiv.org/pdf/2610.17777) <br> Shanshan You, Zhengqi Wang, Hao Liu, Yuqin Liu, Ya He, Xin Hao, **Liyuan Wang**$^\dagger$. <br> arXiv:2610.17777, Under Review, 2026.
 
 * [Brain-inspired Hierarchical Modularity for General Continual Learning.](https://arxiv.org/abs/2609.25146) <br> Hongwei Yan, Kanglei Zhou, Qi Cheng, Weiyi Dong, Chunyan Lan, Jun Zhou, Guanglong Sun, Qian Li, Yi Zhong, **Liyuan Wang**$^\dagger$. <br> arXiv:2609.25146, Under Review, 2026.
 
