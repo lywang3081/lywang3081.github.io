@@ -17,6 +17,7 @@ My email address is changed to *liyuanwang@tsinghua.edu.cn* and *wly19@tsinghua.
 
 Recent News
 ======
+* 2026/10  I received the China Brain-Computer Intelligence Rising Star Awards.
 * 2026/10  Our first paper on AI Psychology is posted on arXiv. 
 * 2026/10  One paper is accepted to IEEE TPAMI.
 * 2026/09  Two papers are accepted to IJCV.
@@ -131,6 +132,7 @@ Academic Services
 
 Honors and Awards
 ======
+* China Brain-Computer Intelligence Rising Star Awards, 2026.
 * Beijing Outstanding Young Scientist Program, 2026.
 * Capital Frontier Academic Achievements (CFAA), 2025.
 * World AI Conference (WAIC) Youth Outstanding Paper Award, 2025.
