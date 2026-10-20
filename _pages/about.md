@@ -125,7 +125,7 @@ Selected Publications and Preprints
 Academic Services
 ======
 * Journal Editor: TMLR (2026)
-* Organizer: CoLLAs (2026), ICCV 6th CLVision Workshop (2025), ISNN Continual Learning Forum (2024)
+* Organizer: CoLLAs (2026), NeurIPS 1st CL4FMAgents Workshop (2026), ICCV 6th CLVision Workshop (2025)
 * Conference Area Chair: NeurIPS (2025), ICLR (2026, 2027), ICML (2026), VALSE (2026)
 * Conference Reviewer: NeurIPS (2021, 2022, 2023, 2024), ICML (2024, 2025), ICLR (2022, 2023, 2024, 2025), CVPR (2022, 2023, 2024, 2025, 2026), ICCV (2023, 2025), ECCV (2022, 2024, 2026), AAAI (2025), IJCAI (2024), ACM MM (2022, 2023), CogSci (2024, 2025), CoLLAs (2023, 2024, 2025)
 * Journal Reviewer: PNAS, TPAMI, IJCV, TAFFC, TIP, TNNLS, TCSVT, TETCI, TAI, SCIS, ACM Computing Surveys, Artificial Intelligence, Neural Networks, Neurocomputing
