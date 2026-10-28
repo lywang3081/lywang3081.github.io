@@ -46,6 +46,8 @@ Recent News
 
 Selected Publications and Preprints
 ======
+* [A Drosophila connectome prior enables adaptable embodied control.](https://thu-neuroml.github.io/FlyControl/) <br> Siyu Yu, Kanglei Zhou, Hongwei Yan, Xinyi Wang, Sen Song, Bo Hong, **Liyuan Wang**$^\dagger$. <br> Under Review, 2026.
+
 * [Beyond Belief Nesting: Rethinking Higher-Order Theory of Mind in Large Language Models.](https://arxiv.org/pdf/2610.17777) <br> Shanshan You, Zhengqi Wang, Hao Liu, Yuqin Liu, Ya He, Xin Hao, **Liyuan Wang**$^\dagger$. <br> arXiv:2610.17777, Under Review, 2026.
 
 * [Brain-inspired Hierarchical Modularity for General Continual Learning.](https://arxiv.org/abs/2609.25146) <br> Hongwei Yan, Kanglei Zhou, Qi Cheng, Weiyi Dong, Chunyan Lan, Jun Zhou, Guanglong Sun, Qian Li, Yi Zhong, **Liyuan Wang**$^\dagger$. <br> arXiv:2609.25146, Under Review, 2026.
